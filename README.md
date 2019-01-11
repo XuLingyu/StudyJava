@@ -1,2 +1,4 @@
 # StudyJava
-for java 
+This is project to learn java. 
+
+

@@ -46,5 +46,9 @@ public class Question1 {
         return  new String(afterSortCharArray);
     }
 
+    public static void main(String[] args){
+        afterSort();
+    }
+
 
 }

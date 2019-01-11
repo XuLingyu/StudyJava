@@ -1,0 +1,15 @@
+按照作用域分
+
+根据注解的作用域@Retention，注解分为
+RetentionPolicy.SOURCE： Java源文件上的注解
+RetentionPolicy.CLASS： Class类文件上的注解
+RetentionPolicy.RUNTIME： 运行时的注解
+
+按照来源分
+
+按照注解的来源，也是分为3类
+1. 内置注解 如@Override ，@Deprecated 等等
+2. 第三方注解，如Hibernate, Struts等等
+3. 自定义注解，如仿hibernate的自定义注解
+
+在工作中，大部分都是使用第三方注解， 当然第三方注解本身就是自定义注解。 本教程的主要作用是帮助大家理解这些第三方注解是如何工作的，让大家用得心里踏实一些。

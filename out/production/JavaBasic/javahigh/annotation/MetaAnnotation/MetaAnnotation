@@ -32,7 +32,7 @@ RetentionPolicy.RUNTIME： 注解在运行起来之后依然存在，程序可�
 表示该注解具有继承性。如例，设计一个DBUtil的子类，其getConnection2方法，可以获取到父类DBUtil上的注解信息。
 
 @Documented
-
+ 在用javadoc命令生成API文档后，DBUtil的文档里会出现该注解说明。
 
 @Repeatable (java1.8 新增)
 接下来挨个讲解

@@ -6,7 +6,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/javamiddle/e_lambda/TestLambda.java" line="58" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1567270b-a9bf-4947-b77d-9dccac6d4465" name="Default" comment="" />
+    <list default="true" id="1567270b-a9bf-4947-b77d-9dccac6d4465" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -38,8 +40,8 @@
       <file leaf-file-name="MetaAnnotation" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/javahigh/annotation/MetaAnnotation/MetaAnnotation">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="317">
-              <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+            <state relative-caret-position="368">
+              <caret line="37" column="7" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -357,12 +359,12 @@
       <workItem from="1546824023615" duration="21248000" />
       <workItem from="1546914560503" duration="65489000" />
       <workItem from="1547104507478" duration="5979000" />
-      <workItem from="1547122622202" duration="5626000" />
+      <workItem from="1547122622202" duration="7448000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="364098000" />
+    <option name="totallyTimeSpent" value="365920000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -382,12 +384,12 @@
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50192803" side_tool="true" weight="0.39430895" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5012854" side_tool="true" visible="true" weight="0.3292683" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.49807197" weight="0.38346884" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49871466" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.4974293" weight="0.38346884" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49871466" visible="true" weight="0.3292683" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19858612" />
@@ -992,8 +994,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/javahigh/annotation/MetaAnnotation/MetaAnnotation">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="317">
-          <caret line="34" column="40" selection-start-line="34" selection-start-column="40" selection-end-line="34" selection-end-column="40" />
+        <state relative-caret-position="368">
+          <caret line="37" column="7" lean-forward="true" selection-start-line="37" selection-start-column="7" selection-end-line="37" selection-end-column="7" />
         </state>
       </provider>
     </entry>

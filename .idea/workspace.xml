@@ -6,10 +6,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/javamiddle/e_lambda/TestLambda.java" line="58" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1567270b-a9bf-4947-b77d-9dccac6d4465" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1567270b-a9bf-4947-b77d-9dccac6d4465" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -360,12 +357,12 @@
       <workItem from="1546824023615" duration="21248000" />
       <workItem from="1546914560503" duration="65489000" />
       <workItem from="1547104507478" duration="5979000" />
-      <workItem from="1547122622202" duration="5307000" />
+      <workItem from="1547122622202" duration="5626000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="363779000" />
+    <option name="totallyTimeSpent" value="364098000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">

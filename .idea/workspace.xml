@@ -7,18 +7,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1567270b-a9bf-4947-b77d-9dccac6d4465" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/Hero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/MyColumn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/MyEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/MyGeneratedValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/MyId.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/MyTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/ParseHibernateAnnotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/HuaweiInterview/Question1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/HuaweiInterview/Question1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/Reflection/Reflection$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/Reflection/Reflection$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/Reflection/Reflection$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/Reflection/Reflection$2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaweiInterview/Question1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HuaweiInterview/Question1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/colors.scheme.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseDrivers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/databaseSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debugger.renderers.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/debugger.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/editor.codeinsight.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/jdk.table.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/markdown.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/other.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toStringTemplates.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui.lnf.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uml.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/usageView.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web-browsers.xml" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -39,8 +43,8 @@
       <file leaf-file-name="ParseHibernateAnnotation.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/ParseHibernateAnnotation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+            <state relative-caret-position="255">
+              <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -48,8 +52,8 @@
       <file leaf-file-name="MyTable.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/MyTable.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            <state relative-caret-position="170">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
             </state>
           </provider>
         </entry>
@@ -97,6 +101,7 @@
       <list>
         <option value="Singleton" />
         <option value="Class" />
+        <option value="Gradle Kotlin DSL Build Script" />
       </list>
     </option>
   </component>
@@ -197,46 +202,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javahigh" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javahigh" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="projects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="projects" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="javahigh" type="462c0819:PsiDirectoryNode" />
-              <item name="annotation" type="462c0819:PsiDirectoryNode" />
-              <item name="hibernate_annotation" type="462c0819:PsiDirectoryNode" />
+              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyJava" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,7 +260,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ParseHibernateAnnotation">
+  <component name="RunManager" selected="Application.Question1">
     <configuration name="AnnotationInherited" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javahigh.annotation.MetaAnnotation.AnnotationInherited" />
       <module name="JavaBasic" />
@@ -341,8 +320,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ParseHibernateAnnotation" />
         <item itemvalue="Application.Question1" />
+        <item itemvalue="Application.ParseHibernateAnnotation" />
         <item itemvalue="Application.AnnotationInherited" />
         <item itemvalue="Application.DBUtil" />
         <item itemvalue="Application.TestAnnotations" />
@@ -373,11 +352,12 @@
       <workItem from="1547104507478" duration="5979000" />
       <workItem from="1547122622202" duration="9150000" />
       <workItem from="1547209203355" duration="519000" />
+      <workItem from="1547211050244" duration="271000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="368141000" />
+    <option name="totallyTimeSpent" value="368412000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -390,7 +370,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.3292683" />
@@ -398,22 +377,22 @@
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50385606" side_tool="true" visible="true" weight="0.38346884" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5025707" side_tool="true" visible="true" weight="0.3292683" />
       <window_info anchor="right" id="Maven Projects" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.49614397" visible="true" weight="0.38346884" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49871466" weight="0.3292683" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49807197" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.49614397" weight="0.38346884" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4974293" visible="true" weight="0.3292683" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20115681" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20372751" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info anchor="bottom" id="Debug" order="2" weight="0.39972898" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="2" weight="0.39972898" />
       <window_info anchor="bottom" id="Dependency Viewer" order="11" weight="0.8157182" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -424,34 +403,34 @@
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Image Layers" order="3" />
       <window_info active="true" anchor="bottom" id="Run" order="12" sideWeight="0.49807197" visible="true" weight="0.25745258" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295129" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3292683" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50192803" side_tool="true" weight="0.39430895" />
       <window_info anchor="bottom" id="Messages" order="6" weight="0.3292683" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15167095" />
       <window_info anchor="bottom" id="Dependency Viewer" order="11" weight="0.8157182" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3292683" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15167095" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.3292683" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295129" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.39972898" />
     </layout-to-restore>
@@ -867,9 +846,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="527">
           <caret line="33" column="44" selection-start-line="33" selection-start-column="44" selection-end-line="33" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -884,9 +860,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -901,10 +874,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="663">
           <caret line="48" column="26" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-          <folding>
-            <element signature="e#1727#1728#0" expanded="true" />
-            <element signature="e#1743#1744#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -929,13 +898,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-528">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/MyTable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -967,10 +929,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/MyTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/ParseHibernateAnnotation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="59" selection-start-line="18" selection-start-column="59" selection-end-line="18" selection-end-column="59" />
+        <state relative-caret-position="255">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
         </state>
       </provider>
     </entry>

@@ -3,7 +3,10 @@
     <extensionMap>
       <mapping pattern="UnderstandString" type="PLAIN_TEXT" />
       <mapping pattern="hibernatennotation" type="PLAIN_TEXT" />
+      <mapping pattern="introduction" type="PLAIN_TEXT" />
       <mapping pattern="MetaAnnotation" type="PLAIN_TEXT" />
+      <mapping pattern="annotationclassification" type="PLAIN_TEXT" />
+      <mapping pattern="intruduction" type="PLAIN_TEXT" />
       <mapping pattern="ExplainSocket" type="PLAIN_TEXT" />
       <mapping pattern="Summay" type="PLAIN_TEXT" />
       <mapping pattern="STIMEYFramework-0" type="PLAIN_TEXT" />

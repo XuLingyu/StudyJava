@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="UnderstandString" type="PLAIN_TEXT" />
+      <mapping pattern="hibernatennotation" type="PLAIN_TEXT" />
       <mapping pattern="MetaAnnotation" type="PLAIN_TEXT" />
       <mapping pattern="ExplainSocket" type="PLAIN_TEXT" />
       <mapping pattern="Summay" type="PLAIN_TEXT" />

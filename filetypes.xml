@@ -11,6 +11,7 @@
       <mapping pattern="ExplainSocket" type="PLAIN_TEXT" />
       <mapping pattern="Summay" type="PLAIN_TEXT" />
       <mapping pattern="STIMEYFramework-0" type="PLAIN_TEXT" />
+      <mapping pattern="intro" type="PLAIN_TEXT" />
       <mapping pattern="hero.config" type="PLAIN_TEXT" />
       <mapping pattern="DIY_Annotation" type="PLAIN_TEXT" />
       <mapping ext="tex" type="PLAIN_TEXT" />

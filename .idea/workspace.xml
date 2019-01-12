@@ -325,7 +325,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestSuite">
+  <component name="RunManager" selected="Application.ParseHibernateAnnotation">
     <configuration name="ParseHibernateAnnotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javahigh.annotation.hibernate_annotation.ParseHibernateAnnotation" />
       <module name="JavaBasic" />
@@ -411,11 +411,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ParseHibernateAnnotation" />
         <item itemvalue="JUnit.TestSuite" />
         <item itemvalue="JUnit.TestCase1" />
         <item itemvalue="Application.TestLog4j" />
         <item itemvalue="Application.Question1" />
-        <item itemvalue="Application.ParseHibernateAnnotation" />
       </list>
     </recent_temporary>
   </component>

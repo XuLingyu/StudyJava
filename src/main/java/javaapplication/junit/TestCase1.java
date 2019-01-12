@@ -27,6 +27,6 @@ public class TestCase1 {
     @Test
     public void testSum2() {
     	int result = SumUtil.sum2(1, 2,3);
-    	Assert.assertEquals(result, 5);
+    	Assert.assertEquals(result, 6);
     }
 }

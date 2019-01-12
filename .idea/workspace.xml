@@ -6,401 +6,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/javamiddle/e_lambda/TestLambda.java" line="58" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1567270b-a9bf-4947-b77d-9dccac6d4465" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Bank/ATM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Bank/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Bank/CheckingAccount.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Bank/OverdraftException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/CompanyEmpolyeeControll/Company.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/CompanyEmpolyeeControll/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/CompanyEmpolyeeControll/Service.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/IO/CopyDirectory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/IO/CopyFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/IO/TraverseAllFiles.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Stack/MyStackSynchronized$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Stack/MyStackSynchronized$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Stack/MyStackSynchronized.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Stack/MyStackWithLock$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Stack/MyStackWithLock$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Stack/MyStackWithLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Stack/Stack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Thread/Consumer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Thread/ConsumerProducerStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Thread/ConsumerProducerStackWithLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Thread/FindFileUsingThreadPool$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Thread/FindFileUsingThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Thread/FindFileWithThreadOrNot$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Thread/FindFileWithThreadOrNot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Thread/FindPassword$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Thread/FindPassword$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Thread/FindPassword.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Exams/Thread/Producer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/HuaweiInterview/Question1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/HuaweiInterview/Question2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/B_Array/LearnArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/C_ChracterAndString/BoxingAndUnboxing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/C_ChracterAndString/CharacterQuestion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/C_ChracterAndString/PrimeNumber.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/C_ChracterAndString/StringConversion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/C_ChracterAndString/StringFormat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/C_ChracterAndString/StringQuestion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/D_StringBuffer/MyStringBuffer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/D_StringBuffer/MyStringBuffer2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/D_StringBuffer/StringBufferInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/D_StringBuffer/StringBufferQuestion.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/E_ExtendInterfaceAbstract/AD.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/E_ExtendInterfaceAbstract/ADHero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/E_ExtendInterfaceAbstract/APHero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/E_ExtendInterfaceAbstract/App1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/E_ExtendInterfaceAbstract/Garen.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/E_ExtendInterfaceAbstract/Hero$BattleScore.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/E_ExtendInterfaceAbstract/Hero$EnemyCrystal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/E_ExtendInterfaceAbstract/Hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/E_ExtendInterfaceAbstract/Item.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/E_ExtendInterfaceAbstract/Mortal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/F_Date/MyCalendar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaBasic/F_Date/MyDate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/a_exception/EnemyHeroIsDeadException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/a_exception/ExceptionType.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/a_exception/IndexIsNagetiveException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/a_exception/IndexIsOutofRangeException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/a_exception/JavaException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/a_exception/MyThrowable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/a_exception/TestEnemyHeroIsDeadException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/b_IO/ChangeDefaultCoding.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/b_IO/DataInputOutputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/b_IO/EncodeDecode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/b_IO/FileMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/b_IO/JavaStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/b_IO/ObjectInputOutputStream.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/b_IO/ReadFromConsole.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/b_IO/ReadWriteFileMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_collection/ArrayListVSLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_collection/BinaryTreeEfficiency.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_collection/HeroNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_collection/MyArrayList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_collection/MyLinkedList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_collection/Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_collection/UseCollections$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_collection/UseCollections$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_collection/UseCollections$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_collection/UseCollections$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_collection/UseCollections.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_map/Entry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_map/HashMapSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_map/HashMapTraversalWays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_map/HashSetSearch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_map/HashsetVSLinkedHashSetVSTreeSet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_map/IHashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_map/MyHashCode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_map/MyHashMap.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/c_map/MyHashtable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/d_generic/GenericNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/d_generic/GenericStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/d_generic/UseGeneric.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/d_generic/WaldcardDeomo$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/d_generic/WaldcardDeomo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/e_lambda/Aggregate$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/e_lambda/Aggregate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/e_lambda/HeroChecker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/e_lambda/TestLambda$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/e_lambda/TestLambda$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/e_lambda/TestLambda.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/Atomic/TestAtomic$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/Atomic/TestAtomic$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/Atomic/TestAtomic.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/CreateThread/KillAnonymous$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/CreateThread/KillAnonymous$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/CreateThread/KillAnonymous.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/CreateThread/KillRunnable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/CreateThread/KillThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/CreateThread/WithoutThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/Lock/DeadlockProblem$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/Lock/DeadlockProblem$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/Lock/DeadlockProblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/Lock/MyLock$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/Lock/MyLock$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/Lock/MyLock$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/Lock/MyLock$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/Lock/MyLock$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/Lock/MyLock$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/Lock/MyLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/Lock/SolveDeadLock$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/Lock/SolveDeadLock$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/Lock/SolveDeadLock.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadBasicMethods$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadBasicMethods$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadBasicMethods$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadBasicMethods$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadBasicMethods$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadBasicMethods$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadBasicMethods$7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadBasicMethods$8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadBasicMethods$9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadBasicMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadInteraction/ThreadInteraction$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadInteraction/ThreadInteraction$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadInteraction/ThreadInteraction$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadInteraction/ThreadInteraction$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadInteraction/ThreadInteraction$5.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadInteraction/ThreadInteraction$6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadInteraction/ThreadInteraction$HurtThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadInteraction/ThreadInteraction$RecoverThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadInteraction/ThreadInteraction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadPool/MyThreadPool$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadPool/MyThreadPool$TaskConsumeThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadPool/MyThreadPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadPool/UseThreadPoolExecutorFindFile$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadPool/UseThreadPoolExecutorFindFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadSafety/ThreadSafety.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadSynchronous/SolveSynchronousProblem$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadSynchronous/SolveSynchronousProblem$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadSynchronous/SolveSynchronousProblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadSynchronous/SynchronousProblem$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadSynchronous/SynchronousProblem$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/f_multithread/ThreadSynchronous/SynchronousProblem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/g_JDBC/ConnectionPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/g_JDBC/DAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/g_JDBC/ExecuteANDExecuteUpdate.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/g_JDBC/Hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/g_JDBC/HeroDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/g_JDBC/MyConnectionPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/g_JDBC/TestConnectionPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/g_JDBC/TestJDBC.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/g_JDBC/TestORM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/g_JDBC/TestPreparedStatement.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/g_JDBC/TestTransaction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/g_JDBC/WorkingThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/h_GUI/FifthGUIMenu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/h_GUI/FirstGUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/h_GUI/FirstGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/h_GUI/FourthGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/h_GUI/HeroTableModel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/h_GUI/SecondGUI$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/h_GUI/SecondGUI$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/h_GUI/SecondGUI.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/h_GUI/Table.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/h_GUI/ThirdGUIUsingLayout$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/h_GUI/ThirdGUIUsingLayout$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/h_GUI/ThirdGUIUsingLayout$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/h_GUI/ThirdGUIUsingLayout.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/i_websocket/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/i_websocket/GUIClient$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/i_websocket/GUIClient$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/i_websocket/GUIClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/i_websocket/GUIServer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/i_websocket/GUIServer$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/i_websocket/GUIServer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/i_websocket/PingIP.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/i_websocket/RecieveThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/i_websocket/SendThread.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/JavaMiddle/i_websocket/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Sigeleton/MyFisrtSigeleton.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Sort/BubbleSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/Sort/SelectionSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javaapplication/junit/SumUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javaapplication/junit/TestCase1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javaapplication/junit/TestCase2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javaapplication/junit/TestSuite.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javaapplication/log4j/TestLog4j.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/Reflection/ADHero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/Reflection/APHero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/Reflection/Reflection$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/Reflection/Reflection$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/Reflection/Reflection.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/annotation/MetaAnnotation/AnnotationInherited.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/annotation/basicbuiltinannotations/TestAnnotations.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/annotation/basicbuiltinannotations/TestFunctionalInterface.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/annotation/diyannotation/DBUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/annotation/diyannotation/JDBCConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/annotation/diyannotation/NoAnnotationDBUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/annotation/hibernate_annotation/Hero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/annotation/hibernate_annotation/MyColumn.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/annotation/hibernate_annotation/MyEntity.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/annotation/hibernate_annotation/MyGeneratedValue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/annotation/hibernate_annotation/MyId.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/annotation/hibernate_annotation/MyTable.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaBasic/javahigh/annotation/hibernate_annotation/ParseHibernateAnnotation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/Bank/ATM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/Bank/Account.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/Bank/CheckingAccount.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/Bank/OverdraftException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/CompanyEmpolyeeControll/Company.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/CompanyEmpolyeeControll/Employee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/CompanyEmpolyeeControll/Employees.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/CompanyEmpolyeeControll/Service.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/IO/CopyDirectory.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/IO/CopyFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/IO/DesFile.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/IO/SrcFile.tex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/IO/TraverseAllFiles.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/Stack/MyStackSynchronized.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/Stack/MyStackWithLock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/Stack/Stack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/Thread/Consumer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/Thread/ConsumerProducerStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/Thread/ConsumerProducerStackWithLock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/Thread/FindFileUsingThreadPool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/Thread/FindFileWithThreadOrNot.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/Thread/FindPassword.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Exams/Thread/Producer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaweiInterview/Question1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HuaweiInterview/Question2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sigeleton/MyFisrtSigeleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/BubbleSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Sort/SelectionSort.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaapplication/junit/SumUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaapplication/junit/TestCase1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaapplication/junit/TestCase2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaapplication/junit/TestSuite.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaapplication/log4j/TestLog4j.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaapplication/log4j/intro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaapplication/log4j/log4j.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaapplication/log4j/log4j.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/A_BasicType/java-basictype.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/B_Array/LearnArray.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/C_ChracterAndString/BoxingAndUnboxing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/C_ChracterAndString/CharacterQuestion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/C_ChracterAndString/PrimeNumber.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/C_ChracterAndString/StringConversion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/C_ChracterAndString/StringFormat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/C_ChracterAndString/StringQuestion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/D_StringBuffer/MyStringBuffer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/D_StringBuffer/MyStringBuffer2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/D_StringBuffer/StringBufferInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/D_StringBuffer/StringBufferQuestion.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/E_ExtendInterfaceAbstract/AD.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/E_ExtendInterfaceAbstract/ADHero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/E_ExtendInterfaceAbstract/APHero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/E_ExtendInterfaceAbstract/App1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/E_ExtendInterfaceAbstract/Garen.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/E_ExtendInterfaceAbstract/Hero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/E_ExtendInterfaceAbstract/Item.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/E_ExtendInterfaceAbstract/Mortal.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/F_Date/MyCalendar.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javabasic/F_Date/MyDate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/Reflection/ADHero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/Reflection/APHero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/Reflection/Reflection.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/Reflection/hero.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/Reflection/hero2.config" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/annotation/MetaAnnotation/AnnotationInherited.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/annotation/MetaAnnotation/MetaAnnotation" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/annotation/basicbuiltinannotations/TestAnnotations.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/annotation/basicbuiltinannotations/TestFunctionalInterface.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/annotation/diyannotation/DBUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/annotation/diyannotation/DIY_Annotation" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/annotation/diyannotation/JDBCConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/annotation/diyannotation/NoAnnotationDBUtil.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/Annotationclassification" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/Hero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/MyColumn.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/MyEntity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/MyGeneratedValue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/MyId.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/MyTable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javahigh/annotation/hibernate_annotation/ParseHibernateAnnotation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/a_exception/EnemyHeroIsDeadException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/a_exception/ExceptionType.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/a_exception/IndexIsNagetiveException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/a_exception/IndexIsOutofRangeException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/a_exception/JavaException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/a_exception/MyThrowable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/a_exception/TestEnemyHeroIsDeadException.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/a_exception/ThrowableException.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/b_IO/ChangeDefaultCoding.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/b_IO/DataInputOutputStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/b_IO/EncodeDecode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/b_IO/FileMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/b_IO/IO.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/b_IO/JavaStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/b_IO/ObjectInputOutputStream.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/b_IO/ReadFromConsole.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/b_IO/ReadWriteFileMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/b_IO/file.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/b_IO/file2.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/b_IO/fileoutput.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/b_IO/garen.lol" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/c_collection/ArrayListVSLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/c_collection/BinaryTreeEfficiency.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/c_collection/HeroNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/c_collection/MyArrayList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/c_collection/MyLinkedList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/c_collection/Node.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/c_collection/UseCollections.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/c_collection/java-collection-hierarchy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/c_map/Entry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/c_map/HashMapSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/c_map/HashMapTraversalWays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/c_map/HashSetSearch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/c_map/HashsetVSLinkedHashSetVSTreeSet.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/c_map/IHashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/c_map/MyHashCode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/c_map/MyHashMap.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/c_map/MyHashtable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/c_map/map-hierarchy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/d_generic/GenericNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/d_generic/GenericStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/d_generic/UseGeneric.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/d_generic/WaldcardDeomo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/e_lambda/Aggregate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/e_lambda/HeroChecker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/e_lambda/TestLambda.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/f_multithread/Atomic/TestAtomic.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/f_multithread/CreateThread/KillAnonymous.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/f_multithread/CreateThread/KillRunnable.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/f_multithread/CreateThread/KillThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/f_multithread/CreateThread/WithoutThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/f_multithread/Lock/DeadlockProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/f_multithread/Lock/MyLock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/f_multithread/Lock/SolveDeadLock.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/f_multithread/ThreadBasicMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/f_multithread/ThreadInteraction/ThreadInteraction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/f_multithread/ThreadInteraction/ThreadInteraction.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/f_multithread/ThreadPool/MyThreadPool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/f_multithread/ThreadPool/UseThreadPoolExecutorFindFile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/f_multithread/ThreadSafety/ThreadSafety.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/f_multithread/ThreadSynchronous/SolveSynchronousProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/f_multithread/ThreadSynchronous/SolveSynchronousProblem.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/f_multithread/ThreadSynchronous/SynchronousProblem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/f_multithread/ThreadSynchronous/SynchronousProblem.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/g_JDBC/ConnectionPool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/g_JDBC/DAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/g_JDBC/ExecuteANDExecuteUpdate.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/g_JDBC/Hero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/g_JDBC/HeroDAO.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/g_JDBC/MyConnectionPool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/g_JDBC/TestConnectionPool.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/g_JDBC/TestJDBC.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/g_JDBC/TestORM.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/g_JDBC/TestPreparedStatement.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/g_JDBC/TestTransaction.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/g_JDBC/WorkThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/h_GUI/FifthGUIMenu.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/h_GUI/FirstGUI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/h_GUI/FourthGUI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/h_GUI/HeroTableModel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/h_GUI/SecondGUI.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/h_GUI/Table.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/h_GUI/ThirdGUIUsingLayout.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/i_websocket/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/i_websocket/ExplainSocket" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/i_websocket/GUIClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/i_websocket/GUIServer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/i_websocket/PingIP.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/i_websocket/RecieveThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/i_websocket/SendThread.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javamiddle/i_websocket/Server.java" beforeDir="false" />
-    </list>
+    <list default="true" id="1567270b-a9bf-4947-b77d-9dccac6d4465" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -421,8 +27,20 @@
       <file leaf-file-name="TestCase1.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/javaapplication/junit/TestCase1.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
+            <state relative-caret-position="442">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestCase2.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/javaapplication/junit/TestCase2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -433,7 +51,7 @@
       <file leaf-file-name="TestSuite.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/javaapplication/junit/TestSuite.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
+            <state relative-caret-position="187">
               <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -442,7 +60,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="544">
@@ -498,7 +116,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/JavaMiddle/GUI/Table.java" />
         <option value="$PROJECT_DIR$/src/JavaMiddle/GUI/HeroTableModel.java" />
         <option value="$PROJECT_DIR$/src/JavaMiddle/Network/Network.java" />
         <option value="$PROJECT_DIR$/src/JavaMiddle/Network/PingIP.java" />
@@ -549,6 +166,7 @@
         <option value="$PROJECT_DIR$/src/main/java/javahigh/annotation/hibernate_annotation/ParseHibernateAnnotation.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/javaapplication/junit/TestCase1.java" />
+        <option value="$PROJECT_DIR$/src/main/java/javaapplication/junit/TestCase2.java" />
       </list>
     </option>
   </component>
@@ -580,6 +198,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -611,14 +231,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="HuaweiInterview" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudyJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="javaapplication" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -632,6 +244,22 @@
             </path>
             <path>
               <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Sigeleton" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
@@ -639,8 +267,6 @@
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -834,7 +460,8 @@
       <workItem from="1547209203355" duration="519000" />
       <workItem from="1547211050244" duration="1615000" />
       <workItem from="1547214442008" duration="1835000" />
-      <workItem from="1547260648182" duration="300000" />
+      <workItem from="1547260648182" duration="774000" />
+      <workItem from="1547261496634" duration="69000" />
     </task>
     <servers />
   </component>
@@ -853,7 +480,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="371891000" />
+    <option name="totallyTimeSpent" value="372434000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -866,6 +493,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.3292683" />
@@ -877,7 +505,7 @@
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49871466" weight="0.3292683" />
       <window_info anchor="bottom" id="Run" order="12" sideWeight="0.49375" weight="0.3823916" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.495" weight="0.3285151" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.495" visible="true" weight="0.123521686" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.373125" />
@@ -899,34 +527,34 @@
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
     </layout>
     <layout-to-restore>
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info id="Designer" order="2" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Image Layers" order="3" />
       <window_info active="true" anchor="bottom" id="Run" order="12" sideWeight="0.49807197" visible="true" weight="0.25745258" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295129" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3292683" />
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50192803" side_tool="true" weight="0.39430895" />
       <window_info anchor="bottom" id="Messages" order="6" weight="0.3292683" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15167095" />
       <window_info anchor="bottom" id="Dependency Viewer" order="11" weight="0.8157182" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3292683" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15167095" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.3292683" />
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295129" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3292683" />
       <window_info anchor="bottom" id="Debug" order="2" weight="0.39972898" />
     </layout-to-restore>
@@ -1015,6 +643,12 @@
           <properties />
           <option name="timeStamp" value="43" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/javaapplication/junit/TestCase1.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>jar://E:/Java/JDK1.8.0/src.zip!/java/util/ArrayList.java</url>
           <line>208</line>
@@ -1080,7 +714,7 @@
           <option name="timeStamp" value="35" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="44" />
+      <option name="time" value="45" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
@@ -1380,13 +1014,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaapplication/junit/TestCase2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javahigh/annotation/hibernate_annotation/ParseHibernateAnnotation.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="493">
@@ -1408,22 +1035,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javaapplication/junit/TestCase1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="29" column="37" selection-start-line="29" selection-start-column="37" selection-end-line="29" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/StudyJava.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javaapplication/junit/TestSuite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
+        <state relative-caret-position="187">
           <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1442,6 +1059,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaapplication/junit/TestCase1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="20" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javaapplication/junit/TestCase2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

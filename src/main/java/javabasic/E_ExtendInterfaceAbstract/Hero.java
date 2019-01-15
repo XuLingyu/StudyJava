@@ -183,6 +183,15 @@ public class Hero implements Serializable, Comparable<Hero> {
     }
 
     @Override
+    public String toString() {
+        return "Hero{" +
+                "name='" + name + '\'' +
+                ", hp=" + hp +
+                ", damage=" + damage +
+                '}';
+    }
+
+    @Override
     public int hashCode() {
         return Objects.hash(hp, name);
     }

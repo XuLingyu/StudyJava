@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class PrimeNumber {
+
+    public static int a = 100;
     private static boolean isPrime(int i) {
         //在一般领域，对正整数n，如果用2到根号n之间的所有整数去除，均无法整除，则n为质数。
         for (int j = 2; j <= Math.sqrt(i); j++) {

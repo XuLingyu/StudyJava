@@ -15,7 +15,7 @@ public class CharacterQuestion {
             }
         }
 
-
+        System.out.println(PrimeNumber.a);
 
 
     }

@@ -4,7 +4,7 @@ import javabasic.E_ExtendInterfaceAbstract.Garen;
 import javabasic.E_ExtendInterfaceAbstract.Hero;
 
 class TestEnemyHeroIsDeadException extends Exception{
-
+    private static int x = 100;
     public static void main(String[] args) {
 
         Hero garen = new Garen();
@@ -23,6 +23,8 @@ class TestEnemyHeroIsDeadException extends Exception{
             System.out.println("异常的具体原因:"+e.getMessage());
             e.printStackTrace();
         }
+
+
 
     }
 }

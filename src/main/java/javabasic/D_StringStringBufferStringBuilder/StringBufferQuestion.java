@@ -1,4 +1,4 @@
-package javabasic.D_StringBuffer;
+package javabasic.D_StringStringBufferStringBuilder;
 
 public class StringBufferQuestion {
     public static void strBufferMethod(){

@@ -1,18 +1,27 @@
 package javamiddle.j_clone;
 
-public class Animal implements Cloneable {
-    String name;
+import java.io.Serializable;
+import java.util.Date;
+
+public class Animal implements Cloneable, Runnable, Serializable {
+    StringBuffer name;
     int age;
-
+    Date birth;
     public Animal(String name) {
-        this.name = name;
+        this.name = new StringBuffer(name);
+        birth = new Date();
     }
 
-    public String getName() {
-        return name;
+    public Date getBirth() {
+        return birth;
     }
 
-    public void setName(String name) {
+    public void setBirth(Date birth) {
+        this.birth = birth;
+    }
+
+
+    public void setName(StringBuffer name) {
         this.name = name;
     }
 
@@ -24,15 +33,29 @@ public class Animal implements Cloneable {
         this.age = age;
     }
 
+
+    public void changeBirth(){
+        this.birth.setTime(0);
+    }
+
     @Override
-    protected Animal clone() {
-        Animal animal = null;
-        try {
-            animal = (Animal) super.clone();
-        } catch (CloneNotSupportedException e) {
-            e.printStackTrace();
-        }
+    protected Object clone() throws CloneNotSupportedException {
+        Animal animal= (Animal) super.clone();
+        //深拷贝（非基本数据类型或者string 都需要深拷贝）
+        animal.birth = (Date) this.getBirth().clone();
         return animal;
+
+    }
+
+    @Override
+    public void run() {
+        System.out.println("animal's run()");
+    }
+
+
+    @Override
+    protected void finalize() throws Throwable {
+        super.finalize();
     }
 
     @Override
@@ -40,6 +63,7 @@ public class Animal implements Cloneable {
         return "Animal{" +
                 "name='" + name + '\'' +
                 ", age=" + age +
+                ", birth=" + birth +
                 '}';
     }
 }

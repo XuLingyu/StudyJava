@@ -3,8 +3,8 @@ package javabasic.E_ExtendInterfaceAbstract;
 
 public interface AD {
 
-    //属性必须是常量
-    public static final int a = 111;
+    //属性必须初始化
+    public static final int A = 111;
 
     //方法必须public，abstract(默认)
     void physicAttack();

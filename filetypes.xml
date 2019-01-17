@@ -17,6 +17,7 @@
       <mapping pattern="intro" type="PLAIN_TEXT" />
       <mapping pattern="hero.config" type="PLAIN_TEXT" />
       <mapping pattern="DIY_Annotation" type="PLAIN_TEXT" />
+      <mapping pattern="IO_Summary" type="PLAIN_TEXT" />
       <mapping ext="tex" type="PLAIN_TEXT" />
       <mapping ext="lol" type="PLAIN_TEXT" />
       <mapping ext="lnk" type="PLAIN_TEXT" />

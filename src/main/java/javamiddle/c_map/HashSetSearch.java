@@ -1,6 +1,6 @@
 package javamiddle.c_map;
 
-import javabasic.C_ChracterAndString.StringQuestion;
+import javabasic.C_ChracterAndString.string.StringQuestion;
 
 import java.util.*;
 

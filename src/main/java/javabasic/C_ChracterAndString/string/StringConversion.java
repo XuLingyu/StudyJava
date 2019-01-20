@@ -1,4 +1,4 @@
-package javabasic.C_ChracterAndString;
+package javabasic.C_ChracterAndString.string;
 
 public class StringConversion {
 

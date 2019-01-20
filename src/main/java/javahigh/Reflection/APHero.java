@@ -1,7 +1,7 @@
 package javahigh.Reflection;
 
 
-import javamiddle.g_JDBC.Hero;
+import javamiddle.g_JDBC.DAO.Hero;
 
 public class APHero extends Hero {
 

@@ -1,4 +1,6 @@
-package javabasic.C_ChracterAndString;
+package javabasic.C_ChracterAndString.character;
+
+import javabasic.A_BasicType.PrimeNumber;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package javamiddle.g_JDBC;
+package javamiddle.g_JDBC.DAO;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package javamiddle.g_JDBC;
+package javamiddle.g_JDBC.DAO;
 
 public class Hero {
     //注意这些修饰符，至少为protect，如果为private，则外部类，无法访问

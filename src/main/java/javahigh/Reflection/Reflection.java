@@ -1,6 +1,6 @@
 package javahigh.Reflection;
 
-import javamiddle.g_JDBC.Hero;
+import javamiddle.g_JDBC.DAO.Hero;
 
 import java.io.*;
 import java.lang.reflect.Constructor;
@@ -65,7 +65,7 @@ public class Reflection {
 
         //获取类对象，都会导致静态属性被初始化，而且只会执行！！！一次！！！
         //（除了直接使用 Class c = Hero.class 这种方式，这种方式不会导致静态属性被初始化）
-        String className = "javamiddle.g_JDBC.Hero";
+        String className = "javamiddle.g_JDBC.DAO.Hero";
         try {
             Class pClass1 = Class.forName(className);
             Class pClass2 = Hero.class;
@@ -110,7 +110,7 @@ public class Reflection {
         //使用反射的方式创建对象
         try {
 
-            String className = "javamiddle.g_JDBC.Hero";
+            String className = "javamiddle.g_JDBC.DAO.Hero";
             //类对象
             Class pClass = Class.forName(className);
            /* //构造器

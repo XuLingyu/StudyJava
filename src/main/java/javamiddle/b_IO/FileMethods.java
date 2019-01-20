@@ -2,6 +2,8 @@ package javamiddle.b_IO;
 
 import java.io.File;
 import java.io.IOException;
+import java.text.DateFormat;
+import java.text.SimpleDateFormat;
 import java.util.Date;
 
 public class FileMethods {
@@ -20,9 +22,10 @@ public class FileMethods {
 
 
     public static void lernFileMethods() throws IOException {
-        File f = new File("E:\\SSM\\StudyJava\\src\\javamiddle\\b_IO\\ReadWriteFileMethods\\file.txt");
+        File f = new File("E:\\SSM\\StudyJava\\src\\main\\java\\javamiddle\\b_IO\\file.txt");
 
         System.out.println("当前文件是：" +f);
+
 
         System.out.println("getAbsolutePath：" +f.getAbsolutePath());
 
@@ -41,11 +44,9 @@ public class FileMethods {
         System.out.println("获取文件的长度："+f.length());
 
         //文件最后修改时间
-        long time = f.lastModified();
-        Date d = new Date(time);
-        System.out.println("获取文件的最后修改时间："+d);
-        //设置文件修改时间为1970.1.1 08:00:00
-        f.setLastModified(0);
+        f.setLastModified(new Date().getTime());
+        SimpleDateFormat sd = new SimpleDateFormat("dd-MM-YYYY: hh:mm:ss");
+        System.out.println("获取文件的最后修改时间："+sd.format(new Date(f.lastModified())));
     }
 
 

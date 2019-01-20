@@ -1,8 +1,13 @@
 import javabasic.E_ExtendInterfaceAbstract.Garen;
 import javabasic.E_ExtendInterfaceAbstract.Hero;
 
-import java.util.ArrayList;
-import java.util.List;
+import java.io.Externalizable;
+import java.io.Serializable;
+import java.io.SerializablePermission;
+import java.nio.channels.Channel;
+import java.nio.channels.Selector;
+import java.sql.CallableStatement;
+import java.util.*;
 
 public class Test {
 
@@ -42,6 +47,12 @@ public class Test {
 
     private static int x = 100;
 
+    @Override
+    protected void finalize() throws Throwable {
+        super.finalize();
+        System.out.println("finalize run");
+    }
+
     final public static void main(String[] args) {
         int[] ints = new int[10];
         System.out.println(s1 == i1);
@@ -66,15 +77,17 @@ public class Test {
         hero.setHp(100);
         heroes.forEach(h -> System.out.println(h));
 
-        String c = "aaa";
-        String a = new String("aaa");
-        String b = new String("aaa");
 
-        System.out.println(a.equals(b));
-        System.out.println(a == c);
-        System.out.println(a.hashCode());
-        System.out.println(b.hashCode());
-        System.out.println(c.hashCode());
+       /* for(Iterator<Hero> it =  heroes.iterator();it.hasNext();){
+            System.out.println(it.next());
+            heroes.remove(8);
+        }*/
+
+       System.out.println(new Hero("aaa").hashCode());
+       System.out.println(new Hero("aa").hashCode());
+
+
+
     }
 
 }

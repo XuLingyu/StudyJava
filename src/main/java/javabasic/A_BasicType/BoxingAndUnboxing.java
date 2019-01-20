@@ -1,4 +1,4 @@
-package javabasic.C_ChracterAndString;
+package javabasic.A_BasicType;
 
 /*
 1.对byte,short,float,double进行自动拆箱和自动装箱

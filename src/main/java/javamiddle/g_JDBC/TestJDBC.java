@@ -7,6 +7,18 @@ import java.sql.*;
         ...
         }*/
 
+/*
+Statement stmt =  stmt = conn.createStatement();
+statement.executeUpdate("DROP TABLE IF EXISTS  REGISTRATION ");
+String sql = "CREATE TABLE REGISTRATION " +
+                   "(id INTEGER not NULL, " +
+                   " first VARCHAR(255), " +
+                   " last VARCHAR(255), " +
+                   " age INTEGER, " +
+                   " PRIMARY KEY ( id ))";
+ stmt.executeUpdate(sql);
+ */
+
 //Delete
 //String sql2 = "delete from hero where id = 5" ;
 //Update

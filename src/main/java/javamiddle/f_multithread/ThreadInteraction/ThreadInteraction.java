@@ -17,7 +17,7 @@ public class ThreadInteraction {
         public void run(){
             while(true){
                 hero.hurt();
-
+                System.out.println();
                 try {
                     Thread.sleep(100);
                 } catch (InterruptedException e) {
@@ -38,6 +38,7 @@ public class ThreadInteraction {
         public void run(){
             while(true){
                 hero.recover();
+                System.out.println();
                 try {
                     Thread.sleep(100);
                 } catch (InterruptedException e) {

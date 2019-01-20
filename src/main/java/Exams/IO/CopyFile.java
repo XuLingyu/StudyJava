@@ -14,9 +14,12 @@ public class CopyFile {
         {
             byte[] bytes = new byte[1024];
             int len = 0;
-            while((len=bis.read(bytes)) > 0)
-            {
-                bos.write(bytes, 0, len);
+            while(true) {
+
+                len=bis.read(bytes);
+                if(len > 0)
+                    bos.write(bytes, 0, len);
+                else break;
             }
             System.out.println("复制文件成功~");
         }
@@ -29,6 +32,6 @@ public class CopyFile {
 
     public static void main(String[] args)
     {
-        copyFile("E:\\SSM\\StudyJava\\src\\Exams\\b_IO\\SrcFile.tex", "E:\\SSM\\StudyJava\\src\\Exams\\b_IO\\DesFile.tex");
+        copyFile("E:\\SSM\\StudyJava\\src\\main\\java\\Exams\\IO\\SrcFile.tex", "E:\\SSM\\StudyJava\\src\\main\\java\\Exams\\IO\\DesFile.tex");
     }
 }

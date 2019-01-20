@@ -27,7 +27,7 @@ public class ThreadSafety {
     }
 
     public static void stringBufferVSStringBuilder(){
-        //D_StringStringBufferStringBuilder 是线程安全的
+        //StringBuffer 是线程安全的
         //StringBuilder 是非线程安全的
         //
         //所以当进行大量字符串拼接操作的时候，如果是单线程就用StringBuilder会更快些，

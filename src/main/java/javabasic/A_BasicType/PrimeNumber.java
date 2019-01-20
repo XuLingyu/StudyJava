@@ -1,4 +1,4 @@
-package javabasic.C_ChracterAndString;
+package javabasic.A_BasicType;
 
 import java.util.ArrayList;
 import java.util.List;

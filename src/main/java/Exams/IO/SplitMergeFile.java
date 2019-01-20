@@ -1,60 +1,10 @@
-package javamiddle.b_IO;
+package Exams.IO;
 
 import java.io.*;
 
-public class JavaStream {
-
-    public static void fileOutputStreamReadFile() {
-        File f = new File("E:\\SSM\\StudyJava\\src\\javamiddle\\b_IO\\file.txt");
-        File f2 = new File("E:\\SSM\\StudyJava\\src\\javamiddle\\b_IO\\fileoutput.txt");
-
-        FileInputStream fis = null;
-        FileOutputStream fos = null;
-        try {
-
-            //创建基于文件的输入输出流
-            fis = new FileInputStream(f);
-            fos = new FileOutputStream(f2);
-
-            //创建字节数组，其长度就是文件的长度
-            byte[] all = new byte[(int) f.length()];
-            //以字节流的形式读取文件所有内容
-
-            // 把数据写入到输出流
-            fis.read(all);
-
-            for (byte b : all) {
-                System.out.print(b + " ");
-            }
-            fos.write(all, 0, (int) f.length());
-
-        } catch (IOException e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
-        } finally {
-            //关闭之前，要先判断该引用是否为空
-            if (null != fis) {
-                try {
-
-                    fis.close();
-                } catch (IOException e) {
-                    // TODO Auto-generated catch block
-                    e.printStackTrace();
-                }
-            }
-            if (null != fos) {
-                try {
-
-                    fis.close();
-                } catch (IOException e) {
-                    // TODO Auto-generated catch block
-                    e.printStackTrace();
-                }
-            }
+public class SplitMergeFile {
 
 
-        }
-    }
 
 
     /*Split File 思路：
@@ -83,7 +33,7 @@ public class JavaStream {
         try {
             input = new FileInputStream(srcFile);
             byte[] buffer = new byte[102400];
-            int len = -1;
+            int len ;
 
             //input.read(buffer) return -1 if read completed
             while ((len = input.read(buffer)) != -1) {

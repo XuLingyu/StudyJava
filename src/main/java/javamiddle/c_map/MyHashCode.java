@@ -1,6 +1,6 @@
 package javamiddle.c_map;
 
-import static javabasic.C_ChracterAndString.StringQuestion.randomString;
+import static javabasic.C_ChracterAndString.string.StringQuestion.randomString;
 
 public class MyHashCode {
 

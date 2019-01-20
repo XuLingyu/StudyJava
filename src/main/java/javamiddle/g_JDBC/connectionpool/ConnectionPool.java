@@ -1,4 +1,4 @@
-package javamiddle.g_JDBC;
+package javamiddle.g_JDBC.connectionpool;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -27,7 +27,7 @@ import java.util.List;
 //注：连接池设计用到了多线程的wait和notifyAll，这些内容可以在多线程交互章节查阅学习。
 
 public class ConnectionPool {
-    List<Connection> cs = new ArrayList<Connection>();
+    List<Connection> cs = new ArrayList<>();
     int size;
 
     //约定了这个连接池一共有多少连接=并初始化

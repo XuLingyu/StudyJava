@@ -1,4 +1,4 @@
-package javamiddle.g_JDBC;
+package javamiddle.g_JDBC.connectionpool;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

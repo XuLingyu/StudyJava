@@ -3,7 +3,9 @@ package javabasic.E_ExtendInterfaceAbstract;
 import java.io.Serializable;
 import java.util.Objects;
 
-public class Hero implements Serializable, Comparable<Hero> {
+public class
+
+Hero implements Serializable, Comparable<Hero> {
     public String name;
     //volatile关键保证了不同线程对这个变量进行操作时的可见性，即一个线程修改了某个变量的值，这新值对其他线程来说是立即可见的
     //或者或者用AtomicInteger

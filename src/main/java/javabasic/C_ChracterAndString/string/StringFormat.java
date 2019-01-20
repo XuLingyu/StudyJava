@@ -1,4 +1,4 @@
-package javabasic.C_ChracterAndString;
+package javabasic.C_ChracterAndString.string;
 
 import java.util.Locale;
 import java.util.Scanner;

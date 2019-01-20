@@ -1,4 +1,6 @@
-package javamiddle.g_JDBC;
+package javamiddle.g_JDBC.connectionpool;
+
+import javamiddle.g_JDBC.connectionpool.ConnectionPool;
 
 import java.sql.Connection;
 import java.sql.SQLException;
@@ -6,7 +8,6 @@ import java.sql.Statement;
 
 class WorkingThread extends Thread {
     private ConnectionPool cp;
-
     public WorkingThread(String name, ConnectionPool cp) {
         super(name);
         this.cp = cp;

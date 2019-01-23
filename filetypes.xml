@@ -2,21 +2,22 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="UnderstandString" type="PLAIN_TEXT" />
+      <mapping pattern="DIY_Annotation" type="PLAIN_TEXT" />
       <mapping pattern="hibernatennotation" type="PLAIN_TEXT" />
       <mapping pattern="introduction" type="PLAIN_TEXT" />
-      <mapping pattern="MetaAnnotation" type="PLAIN_TEXT" />
       <mapping pattern="ServletWorkFlow" type="PLAIN_TEXT" />
       <mapping pattern="annotationclassification" type="PLAIN_TEXT" />
       <mapping pattern="intruduction" type="PLAIN_TEXT" />
       <mapping pattern="Annotationclassification" type="PLAIN_TEXT" />
       <mapping pattern="HttpServletResponse" type="PLAIN_TEXT" />
       <mapping pattern="ExplainSocket" type="PLAIN_TEXT" />
+      <mapping pattern="Design Pattern" type="PLAIN_TEXT" />
       <mapping pattern="Summay" type="PLAIN_TEXT" />
+      <mapping pattern="MetaAnnotation" type="PLAIN_TEXT" />
       <mapping pattern="Servlet" type="PLAIN_TEXT" />
       <mapping pattern="STIMEYFramework-0" type="PLAIN_TEXT" />
       <mapping pattern="intro" type="PLAIN_TEXT" />
       <mapping pattern="hero.config" type="PLAIN_TEXT" />
-      <mapping pattern="DIY_Annotation" type="PLAIN_TEXT" />
       <mapping pattern="IO_Summary" type="PLAIN_TEXT" />
       <mapping ext="tex" type="PLAIN_TEXT" />
       <mapping ext="lol" type="PLAIN_TEXT" />

@@ -15,6 +15,7 @@
       <mapping pattern="Summay" type="PLAIN_TEXT" />
       <mapping pattern="MetaAnnotation" type="PLAIN_TEXT" />
       <mapping pattern="Servlet" type="PLAIN_TEXT" />
+      <mapping pattern="Intruduction" type="PLAIN_TEXT" />
       <mapping pattern="STIMEYFramework-0" type="PLAIN_TEXT" />
       <mapping pattern="intro" type="PLAIN_TEXT" />
       <mapping pattern="hero.config" type="PLAIN_TEXT" />

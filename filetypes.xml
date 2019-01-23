@@ -6,6 +6,7 @@
       <mapping pattern="hibernatennotation" type="PLAIN_TEXT" />
       <mapping pattern="introduction" type="PLAIN_TEXT" />
       <mapping pattern="ServletWorkFlow" type="PLAIN_TEXT" />
+      <mapping pattern="4 ways to implement Java multithreads" type="PLAIN_TEXT" />
       <mapping pattern="annotationclassification" type="PLAIN_TEXT" />
       <mapping pattern="intruduction" type="PLAIN_TEXT" />
       <mapping pattern="Annotationclassification" type="PLAIN_TEXT" />

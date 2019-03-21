@@ -37,10 +37,6 @@ public class LearnArray {
         int[] a = LearnArray.createRandomIntArray(1000);
         LearnArray.arraySort(a);
         LearnArray.binarySearch(a);
-        int[] aa;
-
-
-
 
     }
 }

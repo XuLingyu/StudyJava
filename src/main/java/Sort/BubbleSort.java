@@ -10,7 +10,9 @@ import java.util.Arrays;
 以此类推
 
  */
-public class BubbleSort {
+public class
+
+BubbleSort {
 
     private static int[] createRandomIntArray(int randomIntArrayLength){
         int a[] = new int[randomIntArrayLength];

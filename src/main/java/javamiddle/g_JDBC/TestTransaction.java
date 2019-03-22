@@ -1,16 +1,15 @@
 package javamiddle.g_JDBC;
 
 
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.ResultSet;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 import java.util.Scanner;
 
 /*
-当c.setAutoCommit(false);时，事务是不会提交的
-只有执行使用 c.commit(); 才会提交进行
+A transaction consists of one or many date base sql statements.
+Only when all operations have been completed executed, the transaction can be submitted to the database
+
+当c.setAutoCommit(false);时，事务是不会自动提交的
+只有主动执行使用 c.commit(); 才会提交进行
 设计一个代码，删除表中前10条数据，但是删除前会在控制台弹出一个提示：
 是否要删除数据(Y/N)
 如果用户输入Y，则删除
@@ -33,7 +32,6 @@ public class TestTransaction {
             c = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/how2java?characterEncoding=UTF-8", "root",
                     "123456");
             s = c.createStatement();
-
             // 有事务的前提下
             // 在事务中的多个操作，要么都成功，要么都失败
             c.setAutoCommit(false);

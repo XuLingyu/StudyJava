@@ -1,5 +1,7 @@
 package javamiddle.g_JDBC;
 
+import javamiddle.g_JDBC.DAO.Hero;
+
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -18,7 +20,10 @@ import java.util.List;
  * 注意id字段不能设置为自增，否则后面的增加删除函数不能演示运行效果
  */
 
-public class TestORM {
+public class
+
+
+TestORM {
     //从数据库的特定id字段下的记录所有值，在jvm上生成一个对象，该对象拥有该记录的有所值
     public static Hero get(int id) {
         //初始化一个Hero对象

@@ -37,19 +37,19 @@ public class MyLock {
         Thread t1 = new Thread() {
             public void run() {
                 try {
-                    log("线程启动");
+                    log(" 线程启动");
                     log("试图占有对象：lock");
 
                     lock.lock();
 
-                    log("占有对象：lock");
+                    log("占 有对象：lock");
                     log("进行5秒的业务操作");
                     Thread.sleep(5000);
 
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 } finally {
-                    log("释放对象：lock");
+                    log("释放 对象：lock");
                     lock.unlock();
                 }
                 log("线程结束");

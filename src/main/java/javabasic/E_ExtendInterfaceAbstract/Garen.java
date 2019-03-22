@@ -20,9 +20,25 @@ public class Garen extends Hero implements AD {
     }
 
 
+
     public Garen(int hp, String name, String garenQWER) {
         super(hp, name);
         this.garenQWER = garenQWER;
+    }
+
+    @Override
+    public boolean equals(Object o) {
+        if (this == o) return true;
+        if (!(o instanceof Garen)) return false;
+        if (!super.equals(o)) return false;
+        Garen garen = (Garen) o;
+        return Objects.equals(garenQWER, garen.garenQWER);
+    }
+
+    @Override
+    public int hashCode() {
+
+        return Objects.hash(super.hashCode(), garenQWER);
     }
 
     public void garenSword(){
@@ -35,6 +51,7 @@ public class Garen extends Hero implements AD {
     }
 
     @Override
+
     public void physicAttack() {
         System.out.println("physic attack done");
     }
@@ -42,15 +59,6 @@ public class Garen extends Hero implements AD {
     @Override
     public void physicDefense() {
         System.out.println("physic defense done");
-    }
-
-    @Override
-    public boolean equals(Object o) {
-        if (this == o) return true;
-        if (o == null || getClass() != o.getClass()) return false;
-        if (!super.equals(o)) return false;
-        Garen garen = (Garen) o;
-        return Objects.equals(garenQWER, garen.garenQWER);
     }
 
 

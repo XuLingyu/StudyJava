@@ -38,7 +38,5 @@ public class LearnArray {
         LearnArray.arraySort(a);
         LearnArray.binarySearch(a);
 
-
-
     }
 }

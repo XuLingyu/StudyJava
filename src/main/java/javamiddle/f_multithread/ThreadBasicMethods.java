@@ -1,5 +1,7 @@
 package javamiddle.f_multithread;
+
 import javabasic.E_ExtendInterfaceAbstract.*;
+
 //创建多线程的三种方式：
 //
 //1. 继承Thread类 See KillThread.java
@@ -12,11 +14,11 @@ public class ThreadBasicMethods {
     /*
      * f_multithread.sleep(1000); 表示当前线程暂停1000毫秒 ，其他线程不受影响
      */
-    public static void threadSleep(){
-        Thread t1= new Thread(){
-            public void run(){
-                int seconds =0;
-                while(true){
+    public static void threadSleep() {
+        Thread t1 = new Thread() {
+            public void run() {
+                int seconds = 0;
+                while (true) {
                     try {
                         Thread.sleep(1000);
                     } catch (InterruptedException e) {
@@ -33,10 +35,10 @@ public class ThreadBasicMethods {
     /*
      * 首先解释一下主线程的概念
         所有进程，至少会有一个线程即主线程，即main方法开始执行，就会有一个看不见的主线程存在。
-        在42行执行t.join，即表明在主线程中加入该线程。
+        执行t.join，即表明在主线程中加入该线程。
         主线程会等待该线程结束完毕， 才会往下运行。
      */
-    public static void joinMainThread(){
+    public static void joinMainThread() {
         final Hero gareen = new Hero();
         gareen.name = "盖伦";
         gareen.hp = 616;
@@ -57,9 +59,9 @@ public class ThreadBasicMethods {
         leesin.hp = 455;
         leesin.damage = 80;
 
-        Thread t1= new Thread(){
-            public void run(){
-                while(!teemo.isDead()){
+        Thread t1 = new Thread() {
+            public void run() {
+                while (!teemo.isDead()) {
                     gareen.attackHero(teemo);
                 }
             }
@@ -76,9 +78,9 @@ public class ThreadBasicMethods {
             e.printStackTrace();
         }
 
-        Thread t2= new Thread(){
-            public void run(){
-                while(!leesin.isDead()){
+        Thread t2 = new Thread() {
+            public void run() {
+                while (!leesin.isDead()) {
                     bh.attackHero(leesin);
                 }
             }
@@ -93,7 +95,7 @@ public class ThreadBasicMethods {
         同时把英雄的血量增加100倍，攻击减低到1，才有足够的时间观察到优先级的演示
         如图可见，线程1的优先级是MAX_PRIORITY，所以它争取到了更多的CPU资源执行代码
      */
-    public static void threadPriority(){
+    public static void threadPriority() {
         final Hero gareen = new Hero();
         gareen.name = "盖伦";
         gareen.hp = 6160;
@@ -114,18 +116,19 @@ public class ThreadBasicMethods {
         leesin.hp = 4505;
         leesin.damage = 1;
 
-        Thread t1= new Thread(){
-            public void run(){
+        Thread t1 = new Thread() {
+            public void run() {
 
-                while(!teemo.isDead()){
+                while (!teemo.isDead()) {
                     gareen.attackHero(teemo);
                 }
+
             }
         };
 
-        Thread t2= new Thread(){
-            public void run(){
-                while(!leesin.isDead()){
+        Thread t2 = new Thread() {
+            public void run() {
+                while (!leesin.isDead()) {
                     bh.attackHero(leesin);
                 }
             }
@@ -134,6 +137,7 @@ public class ThreadBasicMethods {
         t1.setPriority(Thread.MAX_PRIORITY);
         t2.setPriority(Thread.MIN_PRIORITY);
         t1.start();
+
         t2.start();
 
 
@@ -143,7 +147,7 @@ public class ThreadBasicMethods {
     /*
      *当前线程，临时暂停，使得其他线程可以有更多的机会占用CPU资源
      */
-    public static void threadYield(){
+    public static void threadYield() {
         final Hero gareen = new Hero();
         gareen.name = "盖伦";
         gareen.hp = 61600;
@@ -164,21 +168,21 @@ public class ThreadBasicMethods {
         leesin.hp = 45050;
         leesin.damage = 1;
 
-        Thread t1= new Thread(){
-            public void run(){
+        Thread t1 = new Thread() {
+            public void run() {
 
-                while(!teemo.isDead()){
-                    Thread.yield();
+                while (!teemo.isDead()) {
+
                     gareen.attackHero(teemo);
                 }
             }
         };
 
-        Thread t2= new Thread(){
-            public void run(){
-                while(!leesin.isDead()){
+        Thread t2 = new Thread() {
+            public void run() {
+                while (!leesin.isDead()) {
                     //临时暂停，使得t1可以占用CPU资源
-
+                    Thread.yield();
 
                     bh.attackHero(leesin);
                 }
@@ -203,19 +207,19 @@ public class ThreadBasicMethods {
 
         守护线程通常会被用来做日志，性能统计等工作。
      */
-    public static void threadSetDaemon(){
-        Thread t1= new Thread(){
-            public void run(){
-                int seconds =0;
+    public static void threadSetDaemon() {
+        Thread t1 = new Thread() {
+            public void run() {
+                int seconds = 0;
 
-                while(true){
+                while (true) {
                     try {
                         Thread.sleep(1000);
                     } catch (InterruptedException e) {
                         // TODO Auto-generated catch block
                         e.printStackTrace();
                     }
-                    System.out.printf("已经玩了LOL %d 秒%n", seconds++);
+                    System.out.printf("已经玩 了LOL %d 秒%n", seconds++);
 
                 }
             }
@@ -231,10 +235,10 @@ public class ThreadBasicMethods {
         teemo.damage = 1;
         t1.setDaemon(true);
         t1.start();
-        Thread t2= new Thread(){
-            public void run(){
+        Thread t2 = new Thread() {
+            public void run() {
 
-                while(!teemo.isDead()){
+                while (!teemo.isDead()) {
                     Thread.yield();
                     gareen.attackHero(teemo);
                 }
@@ -244,12 +248,49 @@ public class ThreadBasicMethods {
     }
 
 
-    public static void main(String[] args){
+    /*
+       stop（）and suspend（） already deprecated
+       Stop（）： this method will release the lock, and other threads may see the different states of object
+       suspend（）： dead lock problem-> this method will not release lock
+       solution： 让线程自行进入执行完run（）， 设置flag
 
-        //joinMainThread();
-        //threadPriority();
-        //threadYield();
-        threadSetDaemon();
+       但是当thread处于非运行状态（wait(), sellp(), IO blocking） setFlag 也没用
+       sleep() wait() 用 interrupt（）方法打破阻塞 在run（）catch InterruptedException 使线程安全推出
+       如果是IO，比如readLine（）阻塞，那就用close（）方法，引起IOException，捕获异常结束线程
+     */
+    public static void threadStop() {
 
+     /*   让线程自行进入执行完run（）， 设置flag
+            class MyThread implements Runnable{
+            private volatile boolean flag;
+            @Override
+            public void run(){
+                while(flag)
+                    System.out.println("asdasdasd");
+            }
+
+            public static void setFlag (){
+                this.flag=false;
+            }
+        }*/
+        Thread thread = new Thread(new Runnable() {
+            @Override
+            public void run() {
+                System.out.println("Thread sleep()");
+
+                try {
+                    Thread.sleep(2000);
+                } catch (InterruptedException e) {
+                    System.out.println("thread is interrupted!");
+                }
+            }
+        });
+        thread.start();
+        thread.interrupt();
     }
+
+    public static void main(String[] args) {
+        threadStop();
+    }
+
 }

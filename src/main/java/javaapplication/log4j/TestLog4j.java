@@ -16,7 +16,7 @@ public class TestLog4j {
         //PropertyConfigurator.configure("E:\\StudyJava\\src\\javaapplication\\log4j\\log4j.properties");
 
         //way two: .xml
-        DOMConfigurator.configure("E:\\StudyJava\\src\\javaapplication\\log4j\\log4j.properties");
+        DOMConfigurator.configure("E:\\log4j.properties");
         for (int i = 0; i < 5000; i++) {
             logger.trace("跟踪信息");
             logger.debug("调试信息");

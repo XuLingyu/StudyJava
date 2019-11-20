@@ -41,16 +41,21 @@ public class StringBufferQuestion {
             str2= str2 + "aaaaaa";
         }
         System.out.println("使用StringBuffer的append方式,链接10000次" + (System.currentTimeMillis() - time));
-        System.out.println(str);
-        System.out.println();
-        System.out.println(str2);
+
+        StringBuilder stringBuilder = new StringBuilder();
+        time = System.currentTimeMillis();
+        for(int i = 0; i < 10000; i++){
+            stringBuilder.append("aaaaaa");
+        }
+        System.out.println("StringBuilder,链接10000次" + (System.currentTimeMillis() - time));
+
 
     }
 
 
 
     public static void main(String[] args){
-        strBufferMethod();
+        //strBufferMethod();
         efficiencyCompare();
 
     }

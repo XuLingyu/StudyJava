@@ -55,15 +55,38 @@ public class RegRuleGenerator {
     
     public static void main(String[] args) {
         Map<String, String> fields = new LinkedHashMap<>();
-        fields = new HashMap<>();
 
-        fields.put("ygdjzl", "预告登记种类");
-        fields.put("qszt", "权属状态");
-        fields.put("djlx", "登记类型");
-        fields.put("fkfs", "付款方式");
+        fields.put("zddm", "宗地代码");
+        fields.put("bdcdyh", "不动产单元号");
+        fields.put("zdtzm", "宗地特征码");
+        fields.put("zl", "坐落");
+        fields.put("zdmj", "宗地面积");
+        fields.put("yt", "用途");
+        fields.put("dj", "等级");
+        fields.put("jg", "价格");
+        fields.put("qllx", "权利类型");
+        fields.put("qlxz", "权利性质");
+        fields.put("qlsdfs", "权利设定方式");
+        fields.put("rjl", "容积率");
+        fields.put("jzmd", "建筑密度");
+        fields.put("jzxg", "建筑限高");
+        fields.put("zdszd", "宗地四至-东");
+        fields.put("zdszn", "宗地四至-南");
+        fields.put("zdszx", "宗地四至-西");
+        fields.put("zdszb", "宗地四至-北");
+        fields.put("tfh", "图幅号");
+        fields.put("tdsyqr", "土地所有权人");
+        fields.put("jzmj", "建筑面积");
+        fields.put("jzwzdmj", "建筑物占地面积");
+        fields.put("qxdm", "区县代码");
+        fields.put("zdxz", "宗地性质");
+        fields.put("lhl", "绿化率");
+        fields.put("sjyt", "实际用途");
+        fields.put("syqqssj", "使用权起始时间");
+        fields.put("syqjssj", "使用权结束时间");
 
         //printRuleNotBlankInfo(fields);
-        printRuleRangeInfo(fields);
+        printRuleNotBlankInfo(fields);
         printRuleTagInfo(fields);
     }
 }

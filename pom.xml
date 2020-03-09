@@ -62,5 +62,21 @@
             <version>4.3.1</version>
         </dependency>
 
+        <dependency>
+            <groupId>com.gisquest.cloud</groupId>
+            <artifactId>platform-rulesengine-client</artifactId>
+            <version>1.0.8-IP-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>1.2.47</version>
+        </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.10</version>
+        </dependency>
+
     </dependencies>
 </project>

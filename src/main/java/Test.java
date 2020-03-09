@@ -1,13 +1,14 @@
-import javabasic.E_ExtendInterfaceAbstract.Garen;
-import javabasic.E_ExtendInterfaceAbstract.Hero;
+import com.alibaba.fastjson.JSON;
+import com.alibaba.fastjson.JSONArray;
+import com.alibaba.fastjson.JSONObject;
+import com.gisquest.cloud.ruleexcutor.client.GisRuleEngineClient;
+import com.gisquest.cloud.ruleexcutor.client.request.FormCheckByRuleIdRequest;
+import com.gisquest.cloud.ruleexcutor.client.response.FormCheckByRuleIdResponse;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import org.apache.commons.lang3.ObjectUtils;
+import org.apache.commons.lang3.StringUtils;
 
-import java.io.Externalizable;
-import java.io.Serializable;
-import java.io.SerializablePermission;
-import java.math.BigDecimal;
-import java.nio.channels.Channel;
-import java.nio.channels.Selector;
-import java.sql.CallableStatement;
 import java.util.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
@@ -30,16 +31,32 @@ public class Test {
         System.out.print(match.matches());
     }
 
-    public static void main(String[] args){
+    public static Boolean isObjectNotEmpty(Object obj) {
+    String str = String.valueOf(obj);
+    return StringUtils.isNotBlank(str);
+}
 
-        /*regT("1.1112","3");*/
-        Long a = null;
-        String srt = String.valueOf(1L);
-        String srt2 = String.valueOf(a);
-                String srt3 = a.toString();
+    public static void main(String[] args){
+        GisRuleEngineClient gisRuleEngineClient = new GisRuleEngineClient();
+        FormCheckByRuleIdRequest data = new FormCheckByRuleIdRequest();
+        FormCheckByRuleIdResponse response = gisRuleEngineClient.formCheckByRuleIds(data);
+
+        A a1 = new A("A1",12);
+        A a2 = new A("A1",12);
+        List list = new ArrayList();
+        list.add(a1);
+        list.add(a2);
+        String aas = JSON.toJSONString(list);
+        JSONArray jsonObject = JSONObject.parseArray(aas);
+
+        String asdasd = "adsa";
+
+
     }
 
 
 
 
+
 }
+

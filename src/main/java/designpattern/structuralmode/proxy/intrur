@@ -19,7 +19,9 @@
 应用实例： 1、Windows 里面的快捷方式。
           3、买火车票不一定在火车站买，也可以去代售点。
           4、一张支票或银行存单是账户中资金的代理。支票在市场交易中用来代替现金，并提供对签发人账号上资金的控制。
-          5、spring aop(动态代理)
+          5、spring aop(动态代理)  JDK 自带的动态代理
+               java.lang.reflect.Proxy:生成动态代理类和对象；
+               java.lang.reflect.InvocationHandler（处理器接口）：可以通过invoke方法实现
 
 优点： 1、职责清晰。 2、高扩展性。 3、智能化。
 

@@ -1,4 +1,4 @@
-package completablefuturetest;
+package concurrence.completablefuturetest;
 
 import java.util.concurrent.CompletableFuture;
 

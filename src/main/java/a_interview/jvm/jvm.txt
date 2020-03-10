@@ -1,0 +1,5 @@
+java程序执行过程 + JVM内存管理 + GC垃圾回收机制
+https://blog.csdn.net/u010429424/article/details/77333311
+
+Java中New一个对象是个怎么样的过程？
+https://blog.csdn.net/moHedong/article/details/79618048

@@ -82,7 +82,7 @@ public class UseCollections {
 
 
         Collections.sort(list, comparator);
-        System.out.println("Way one: Sort base Hp using Comparator后的集合：");
+        System.out.println("Way one: a_interview.datastructure.Sort base Hp using Comparator后的集合：");
         list.forEach((hero)->System.out.println(hero));
 
 
@@ -97,12 +97,12 @@ public class UseCollections {
 
             }
         });
-        System.out.println("Way two: Sort base name using new anonymous Comparator class后的集合：");
+        System.out.println("Way two: a_interview.datastructure.Sort base name using new anonymous Comparator class后的集合：");
         list.forEach((hero)->System.out.println(hero));
 
         Collections.shuffle(list);
         Collections.sort(list);
-        System.out.println("Way three: Sort base name using Interface Comparable后的集合：");
+        System.out.println("Way three: a_interview.datastructure.Sort base name using Interface Comparable后的集合：");
         list.forEach((hero)->System.out.println(hero));
 
 
@@ -117,12 +117,12 @@ public class UseCollections {
                 return o1.getHp()-o2.getHp();
             }
         });
-        System.out.println("Way four: Sort base on name then ob hp using Java8后的集合：");
+        System.out.println("Way four: a_interview.datastructure.Sort base on name then ob hp using Java8后的集合：");
         list.forEach((hero)->System.out.println(hero));
 
         Collections.shuffle(list);
         list.sort((o1,o2) -> o1.getHp()-o2.getHp());
-        System.out.println("Way five: Sort base hp using JAVA 8 Lambda expression：");
+        System.out.println("Way five: a_interview.datastructure.Sort base hp using JAVA 8 Lambda expression：");
         list.forEach((hero)->System.out.println(hero));
 
 

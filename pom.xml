@@ -65,7 +65,7 @@
         <dependency>
             <groupId>com.gisquest.cloud</groupId>
             <artifactId>platform-rulesengine-client</artifactId>
-            <version>1.0.8-IP-SNAPSHOT</version>
+            <version>1.0.9-IP-SNAPSHOT</version>
         </dependency>
         <dependency>
             <groupId>com.alibaba</groupId>

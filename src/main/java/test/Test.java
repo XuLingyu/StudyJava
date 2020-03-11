@@ -1,12 +1,11 @@
+package test;
+
 import com.alibaba.fastjson.JSON;
 import com.alibaba.fastjson.JSONArray;
 import com.alibaba.fastjson.JSONObject;
 import com.gisquest.cloud.ruleexcutor.client.GisRuleEngineClient;
 import com.gisquest.cloud.ruleexcutor.client.request.FormCheckByRuleIdRequest;
 import com.gisquest.cloud.ruleexcutor.client.response.FormCheckByRuleIdResponse;
-import lombok.AllArgsConstructor;
-import lombok.Data;
-import org.apache.commons.lang3.ObjectUtils;
 import org.apache.commons.lang3.StringUtils;
 
 import java.util.*;

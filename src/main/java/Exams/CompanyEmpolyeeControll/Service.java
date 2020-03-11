@@ -87,7 +87,7 @@ public class Service {
         System.out.println("calculateSubordinate: ");
         employees.forEach(employee -> System.out.println(employee));
 
-        System.out.println("Sort: ");
+        System.out.println("a_interview.datastructure.Sort: ");
         employees.stream()
                 .sorted((e1,e2) -> Integer.parseInt(e1.id) - Integer.parseInt(e2.id))
                 .forEach(e -> System.out.println(e));

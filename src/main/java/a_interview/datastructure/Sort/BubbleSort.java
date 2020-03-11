@@ -1,4 +1,4 @@
-package Sort;
+package a_interview.datastructure.Sort;
 
 import java.util.Arrays;
 

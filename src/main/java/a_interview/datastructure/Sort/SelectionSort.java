@@ -1,4 +1,4 @@
-package Sort;
+package a_interview.datastructure.Sort;
 
 /*
 选择排序法：O(n^2)

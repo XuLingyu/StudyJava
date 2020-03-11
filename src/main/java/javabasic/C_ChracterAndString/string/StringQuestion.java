@@ -183,7 +183,7 @@ public class StringQuestion {
         System.out.println("Geneate a string that contains only Uppercase and lowercase letters, number ");
         System.out.println(randomString(5));
 
-        System.out.println("Sort one array string depends on first char of String");
+        System.out.println("a_interview.datastructure.Sort one array string depends on first char of String");
         sortRandomArrayString();
 
         System.out.println("Use Brute force for decryption");

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.gisquest.cloud:platform-rulesengine-client:1.1.0-IP-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gisquest/cloud/platform-rulesengine-client/1.1.0-IP-SNAPSHOT/platform-rulesengine-client-1.1.0-IP-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gisquest/cloud/platform-rulesengine-client/1.1.0-IP-SNAPSHOT/platform-rulesengine-client-1.1.0-IP-SNAPSHOT-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/gisquest/cloud/platform-rulesengine-client/1.1.0-IP-SNAPSHOT/platform-rulesengine-client-1.1.0-IP-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

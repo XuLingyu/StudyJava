@@ -6,49 +6,51 @@ import com.alibaba.fastjson.JSONObject;
 import com.gisquest.cloud.ruleexcutor.client.GisRuleEngineClient;
 import com.gisquest.cloud.ruleexcutor.client.request.FormCheckByRuleIdRequest;
 import com.gisquest.cloud.ruleexcutor.client.response.FormCheckByRuleIdResponse;
+import com.gisquest.cloud.ruleexcutor.client.response.ResponseBodyVo;
+import javabasic.E_ExtendInterfaceAbstract.Garen;
+import javamiddle.g_JDBC.DAO.Hero;
 import org.apache.commons.lang3.StringUtils;
+import org.springframework.cloud.client.loadbalancer.reactive.Response;
+import org.springframework.http.MediaType;
+import org.springframework.http.client.ClientHttpRequestFactory;
+import org.springframework.http.client.HttpComponentsClientHttpRequestFactory;
+import org.springframework.http.converter.json.MappingJackson2HttpMessageConverter;
+import org.springframework.web.bind.annotation.ResponseBody;
+import org.springframework.web.client.RestTemplate;
+import org.springframework.web.reactive.function.client.WebClient;
+import reactor.core.publisher.Mono;
 
-import java.util.*;
+import java.util.Arrays;
+import java.util.HashMap;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Test {
-    char a= 's';
-    String str ;
-    char[] chars = {'a', 'b', 'c'} ;
-    public void exchange(String str, char[] chars){
-        str = "sad";
-        chars[0] = 'g';
 
-    }
 
-    static void regT(String str, String i) {
-        String reg = "^(([1-9]{1}\\d*)|([0]{1}))(\\.(\\d){0," + i + "})?$";
-
-        Pattern pattern=Pattern.compile(reg);
-        Matcher match=pattern.matcher(str);
-        System.out.print(match.matches());
-    }
-
-    public static Boolean isObjectNotEmpty(Object obj) {
-    String str = String.valueOf(obj);
-    return StringUtils.isNotBlank(str);
-}
 
     public static void main(String[] args){
-        GisRuleEngineClient gisRuleEngineClient = new GisRuleEngineClient();
+    /*    GisRuleEngineClient gisRuleEngineClient = new GisRuleEngineClient();
         FormCheckByRuleIdRequest data = new FormCheckByRuleIdRequest();
-        FormCheckByRuleIdResponse response = gisRuleEngineClient.formCheckByRuleIds(data);
+        FormCheckByRuleIdResponse response = gisRuleEngineClient.formCheckByRuleIds(data);*/
+        //在某一线程声明了ABC三种类型的ThreadLocal
+       /* ThreadLocal<A> sThreadLocalA = new ThreadLocal<>();
+        ThreadLocal<Hero> sThreadLocalB = new ThreadLocal<>();
+        ThreadLocal<Garen> sThreadLocalC = new ThreadLocal<>();
+        Thread t = new Thread();
+        t.start();*/
 
-        A a1 = new A("A1",12);
-        A a2 = new A("A1",12);
-        List list = new ArrayList();
-        list.add(a1);
-        list.add(a2);
-        String aas = JSON.toJSONString(list);
-        JSONArray jsonObject = JSONObject.parseArray(aas);
+        final String uri = "http://192.168.99.71:39001/ruleEngine/projectRules";
+        RestTemplate restTemplate = new RestTemplate();
 
-        String asdasd = "adsa";
+        String result = restTemplate.getForObject(uri, String.class);
+
+        System.out.println(result);
+        System.out.println();
+
+     /*   Mono<String> response = WebClient.create().get().uri("http://192.168.99.71:39001/ruleEngine/projectRules").retrieve().bodyToMono(String.class);
+        System.out.println(response.block());*/
+
 
 
     }

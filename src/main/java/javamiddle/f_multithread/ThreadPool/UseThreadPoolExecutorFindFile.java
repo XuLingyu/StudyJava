@@ -17,16 +17,24 @@ public class UseThreadPoolExecutorFindFile {
                         TimeUnit.MINUTES, new LinkedBlockingQueue<Runnable>());
 
 
-        threadPool.execute(new Runnable() {
+        for (int i = 0; i < 20; i ++) {
+            threadPool.execute(new Runnable() {
 
-            @Override
-            public void run() {
-                // TODO Auto-generated method stub
-                System.out.println("任务1" + threadPool.getActiveCount());
+                @Override
+                public void run() {
+                    // TODO Auto-generated method stub
+                    System.out.println(Thread.currentThread().getName() + "begin");
+                    String str = "aa";
+                    for (int i = 0; i < 10000000; i ++) {
+                        str = String.valueOf(Math.random());
+                    }
+                    System.out.println(Thread.currentThread().getName() + "done");
+                }
 
-            }
+            });
+        }
 
-        });
+
 
     }
 }

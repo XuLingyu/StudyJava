@@ -59,7 +59,9 @@ public class MyLock {
         t1.start();
         try {
             //先让t1飞2秒
+            log("先让t1飞2秒");
             Thread.sleep(2000);
+
         } catch (InterruptedException e1) {
             // TODO Auto-generated catch block
             e1.printStackTrace();
@@ -244,6 +246,9 @@ public class MyLock {
     }
 
     public static void main(String[] args) {
+        /*lockLock();*/
+        /*tryLock();*/
+
         lockInteraction();
     }
 }

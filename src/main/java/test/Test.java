@@ -40,17 +40,46 @@ public class Test {
         Thread t = new Thread();
         t.start();*/
 
-        final String uri = "http://192.168.99.71:39001/ruleEngine/projectRules";
+   /*     final String uri = "http://192.168.99.71:39001/ruleEngine/projectRules";
         RestTemplate restTemplate = new RestTemplate();
 
         String result = restTemplate.getForObject(uri, String.class);
 
         System.out.println(result);
-        System.out.println();
+        System.out.println();*/
 
      /*   Mono<String> response = WebClient.create().get().uri("http://192.168.99.71:39001/ruleEngine/projectRules").retrieve().bodyToMono(String.class);
         System.out.println(response.block());*/
 
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                //模拟执行耗时任务
+                System.out.println("task doing...");
+                try {
+                    Thread.sleep(3000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+                //告诉completableFuture任务已经完成
+            }
+        }).start();
+        System.out.println("1");
+
+        new Thread(new Runnable() {
+            @Override
+            public void run() {
+                //模拟执行耗时任务
+                System.out.println("task doing...");
+                try {
+                    Thread.sleep(3000);
+                } catch (InterruptedException e) {
+                    e.printStackTrace();
+                }
+                //告诉completableFuture任务已经完成
+            }
+        }).run();
+        System.out.println("2");
 
 
     }

@@ -20,16 +20,40 @@ import org.springframework.web.client.RestTemplate;
 import org.springframework.web.reactive.function.client.WebClient;
 import reactor.core.publisher.Mono;
 
+import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.List;
+import java.util.concurrent.*;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 public class Test {
 
+    static class Worker extends Thread {
+        private int num;
+        private Semaphore semaphore;
 
+        public Worker(int num, Semaphore semaphore) {
+            this.num = num;
+            this.semaphore = semaphore;
+        }
 
-    public static void main(String[] args){
+        @Override
+        public void run() {
+            try {
+                semaphore.acquire();
+                System.out.println("工人" + this.num + "占用一个机器在生产...");
+                Thread.sleep(2000);
+                System.out.println("工人" + this.num + "释放出机器");
+                semaphore.release();
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
+        }
+    }
+
+    public static void main(String[] args) {
     /*    GisRuleEngineClient gisRuleEngineClient = new GisRuleEngineClient();
         FormCheckByRuleIdRequest data = new FormCheckByRuleIdRequest();
         FormCheckByRuleIdResponse response = gisRuleEngineClient.formCheckByRuleIds(data);*/
@@ -50,42 +74,13 @@ public class Test {
 
      /*   Mono<String> response = WebClient.create().get().uri("http://192.168.99.71:39001/ruleEngine/projectRules").retrieve().bodyToMono(String.class);
         System.out.println(response.block());*/
-
-        new Thread(new Runnable() {
-            @Override
-            public void run() {
-                //模拟执行耗时任务
-                System.out.println("task doing...");
-                try {
-                    Thread.sleep(3000);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
-                //告诉completableFuture任务已经完成
-            }
-        }).start();
-        System.out.println("1");
-
-        new Thread(new Runnable() {
-            @Override
-            public void run() {
-                //模拟执行耗时任务
-                System.out.println("task doing...");
-                try {
-                    Thread.sleep(3000);
-                } catch (InterruptedException e) {
-                    e.printStackTrace();
-                }
-                //告诉completableFuture任务已经完成
-            }
-        }).run();
-        System.out.println("2");
-
+        int N = 8; //工人数
+        Semaphore semaphore = new Semaphore(5); //机器数目
+        for(int i=0;i<N;i++) {
+            new Worker(i,semaphore).start();
+        }
 
     }
-
-
-
 
 
 }

@@ -1,10 +1,8 @@
 package javamiddle.f_multithread.ThreadPool;
 
-import java.util.concurrent.LinkedBlockingQueue;
-import java.util.concurrent.ThreadPoolExecutor;
-import java.util.concurrent.TimeUnit;
+import java.util.concurrent.*;
 
-public class UseThreadPoolExecutorFindFile {
+public class UseThreadPoolExecutor {
     public static void main(String[] args) throws InterruptedException {
 
         //第一个参数10 表示这个线程池初始化了10个线程在里面工作
@@ -13,11 +11,12 @@ public class UseThreadPoolExecutorFindFile {
         //第四个参数TimeUnit.SECONDS 如上
         //第五个参数 new LinkedBlockingQueue() 用来放任务的集合
         ThreadPoolExecutor threadPool = new ThreadPoolExecutor
-                (10, 15, 1,
-                        TimeUnit.MINUTES, new LinkedBlockingQueue<Runnable>());
-
-
-        for (int i = 0; i < 20; i ++) {
+                (8, 16, 60,
+                        TimeUnit.SECONDS, new LinkedBlockingQueue<Runnable>());
+        final CountDownLatch latch = new CountDownLatch(8);
+        CyclicBarrier barrier = new CyclicBarrier(8);
+        Long beginTime = System.currentTimeMillis();
+        for (int i = 0; i < 8; i ++) {
             threadPool.execute(new Runnable() {
 
                 @Override
@@ -25,16 +24,24 @@ public class UseThreadPoolExecutorFindFile {
                     // TODO Auto-generated method stub
                     System.out.println(Thread.currentThread().getName() + "begin");
                     String str = "aa";
-                    for (int i = 0; i < 10000000; i ++) {
+                    for (int i = 0; i < 1000000; i ++) {
                         str = String.valueOf(Math.random());
                     }
+                 /*   try {
+                        barrier.await();
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    } catch (BrokenBarrierException e) {
+                        e.printStackTrace();
+                    }*/
                     System.out.println(Thread.currentThread().getName() + "done");
+                    latch.countDown();
                 }
-
             });
         }
 
-
-
+        latch.await();
+        threadPool.shutdown();
+        System.out.println((System.currentTimeMillis() - beginTime));
     }
 }

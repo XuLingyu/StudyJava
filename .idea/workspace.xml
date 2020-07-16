@@ -2,18 +2,429 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1567270b-a9bf-4947-b77d-9dccac6d4465" name="Default" comment="【提交人】：名字&#10;【提交类型】：BUG/新功能/功能优化/代码重构/项目新建&#10;【jiar号码】：&#10;【问题描述】：&#10;【修改内容】：">
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/RuleEngineAction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/qaplug_profiles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/StudyJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/StudyJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_gisquest_cloud_platform_rulesengine_client_1_2_0_SNAPSHOT.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javamiddle/f_multithread/ThreadPool/UseThreadPoolExecutorFindFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/javamiddle/f_multithread/ThreadPool/UseThreadPoolExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javamiddle/g_JDBC/connectionpool/MyConnectionPool.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/a_interview/concurrence/multithreads/thread、lock" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/a_interview/concurrence/multithreads/thread、lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/StudyJava.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadPool/UseThreadPoolExecutorFindFile$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadPool/UseThreadPoolExecutorFindFile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/g_JDBC/connectionpool/MyConnectionPool.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Test$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Test$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Bank/ATM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Bank/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Bank/CheckingAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Bank/OverdraftException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/CompanyEmpolyeeControll/Company.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/CompanyEmpolyeeControll/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/CompanyEmpolyeeControll/Employees.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/CompanyEmpolyeeControll/Service.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/IO/CopyDirectory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/IO/CopyFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/IO/DesFile.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/IO/ReadWriteFileMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/IO/SplitMergeFile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/IO/SrcFile.tex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/IO/TraverseAllFiles.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Stack/MyStackSynchronized$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Stack/MyStackSynchronized$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Stack/MyStackSynchronized.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Stack/MyStackWithLock$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Stack/MyStackWithLock$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Stack/MyStackWithLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Stack/Stack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Thread/Consumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Thread/ConsumerProducerStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Thread/ConsumerProducerStackWithLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Thread/FindFileUsingThreadPool$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Thread/FindFileUsingThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Thread/FindFileWithThreadOrNot$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Thread/FindFileWithThreadOrNot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Thread/FindPassword$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Thread/FindPassword$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Thread/FindPassword.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Exams/Thread/Producer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/concurrence/completablefuturetest/CompletableFutureTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/concurrence/completablefuturetest/CompletableFutureTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/concurrence/multithreads/Lock.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/concurrence/multithreads/thread、lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/datastructure/Sort/BubbleSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/datastructure/Sort/SelectionSort.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/Design Pattern" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/behavioralmode/observer/BinaryObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/behavioralmode/observer/HexaObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/behavioralmode/observer/Observer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/behavioralmode/observer/ObserverPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/behavioralmode/observer/OctalObserver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/behavioralmode/observer/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/abstractfactory/AbstractFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/abstractfactory/AbstractFactoryPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/abstractfactory/Blue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/abstractfactory/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/abstractfactory/Color.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/abstractfactory/ColorFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/abstractfactory/FactoryProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/abstractfactory/Green.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/abstractfactory/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/abstractfactory/Red.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/abstractfactory/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/abstractfactory/ShapeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/abstractfactory/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/abstractfactory/abstractfactory_pattern.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/abstractfactory/intru" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/builderpattern/Bottle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/builderpattern/BuiderPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/builderpattern/Burger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/builderpattern/ChickenBurger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/builderpattern/Coke.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/builderpattern/ColdDrink.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/builderpattern/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/builderpattern/Meal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/builderpattern/MealBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/builderpattern/Packing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/builderpattern/Pepsi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/builderpattern/VegBurger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/builderpattern/Wrapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/builderpattern/builder.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/builderpattern/builder_pattern_uml_diagram.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/factorypattern/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/factorypattern/FactoryPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/factorypattern/Intruduction" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/factorypattern/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/factorypattern/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/factorypattern/ShapeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/factorypattern/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/factorypattern/factory_pattern.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/prototype/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/prototype/PrototypePatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/prototype/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/prototype/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/prototype/ShapeCache.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/prototype/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/prototype/intru.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/prototype/prototype_pattern_uml_diagram.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/sigeleton/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/creationalmode/sigeleton/SingletonLazyInit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/adapter/AdapterPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/adapter/AdvancedMediaPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/adapter/AudioPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/adapter/MediaAdapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/adapter/MediaPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/adapter/Mp4Player.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/adapter/VlcPlayer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/adapter/adapter_pattern_uml_diagram.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/adapter/intru.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/bridge/BridgePatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/bridge/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/bridge/DrawAPI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/bridge/GreenCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/bridge/RedCircle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/bridge/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/bridge/bridge_pattern_uml_diagram.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/bridge/intru.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/chain/AbstractLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/chain/ChainPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/chain/ConsoleLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/chain/ErrorLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/chain/FileLogger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/chain/chain_pattern_uml_diagram.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/chain/intru" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/composite/CompositePatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/composite/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/composite/composite_pattern_uml_diagram.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/composite/intru.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/decorator/Bread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/decorator/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/decorator/Cream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/decorator/DecoratorPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/decorator/Food.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/decorator/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/decorator/RedShapeDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/decorator/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/decorator/ShapeDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/decorator/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/decorator/Vegetable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/decorator/decorator_pattern_uml_diagram.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/decorator/intru.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/facade/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/facade/FacadePatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/facade/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/facade/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/facade/ShapeMaker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/facade/Square.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/facade/facade_pattern_uml_diagram.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/facade/intrru" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/filter/AndCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/filter/Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/filter/CriteriaFemale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/filter/CriteriaMale.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/filter/CriteriaPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/filter/CriteriaSingle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/filter/OrCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/filter/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/filter/filter_pattern_uml_diagram.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/filter/intru.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/flyweight/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/flyweight/FlyweightPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/flyweight/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/flyweight/ShapeFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/flyweight/flyweight_pattern_uml_diagram-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/flyweight/inrru" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/proxy/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/proxy/Image.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/proxy/MyInvocationHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/proxy/ProxyImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/proxy/ProxyPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/proxy/RealImage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/proxy/RealSubject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/proxy/Subject.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/proxy/intrur" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/designpattern/structuralmode/proxy/proxy_pattern_uml_diagram.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/framework/mybatias/mybatis.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/framework/spring/aop/dynamiccproxy/Bye.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/framework/spring/aop/dynamiccproxy/ByeInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/framework/spring/aop/dynamiccproxy/DynamicProxyDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/framework/spring/aop/dynamiccproxy/HelloProxyHandler.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/framework/spring/aop/dynamiccproxy/dynamic.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/framework/spring/aop/statisticproxy/ByeProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/framework/spring/aop/statisticproxy/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/framework/spring/aop/statisticproxy/HelloInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/framework/spring/aop/statisticproxy/HelloProxy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/framework/spring/aop/statisticproxy/StatisticProxyDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/framework/springcloud/springcloud.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/jvm/jvm.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/mq/ActiveMQUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/mq/intru.text" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/mq/queue/TestConsumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/mq/queue/TestConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/mq/queue/TestConsumer2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/mq/queue/TestConsumer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/mq/queue/TestProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/mq/topic/TopicConsumer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/mq/topic/TopicConsumer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/mq/topic/TopicConsumer2$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/mq/topic/TopicConsumer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/a_interview/mq/topic/TopicProducer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/expressionparse/DateUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/expressionparse/StringUtils.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/expressionparse/TestExpression.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaapplication/junit/SumUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaapplication/junit/TestCase1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaapplication/junit/TestCase2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaapplication/junit/TestSuite.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaapplication/log4j/TestLog4j.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaapplication/log4j/intro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaapplication/log4j/log4j.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javaapplication/log4j/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/A_BasicType/BoxingAndUnboxing.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/A_BasicType/PrimeNumber.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/A_BasicType/java-basictype.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/B_Array/LearnArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/C_ChracterAndString/character/CharacterQuestion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/C_ChracterAndString/character/UseCharacter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/C_ChracterAndString/string/StringConversion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/C_ChracterAndString/string/StringFormat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/C_ChracterAndString/string/StringQuestion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/C_ChracterAndString/string/UseString.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/C_ChracterAndString/string/UseStringToknizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/D_StringStringBufferStringBuilder/MyStringBuffer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/D_StringStringBufferStringBuilder/MyStringBuffer2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/D_StringStringBufferStringBuilder/StringBufferInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/D_StringStringBufferStringBuilder/StringBufferQuestion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/D_StringStringBufferStringBuilder/StringCompare.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/E_ExtendInterfaceAbstract/AD.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/E_ExtendInterfaceAbstract/ADHero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/E_ExtendInterfaceAbstract/APHero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/E_ExtendInterfaceAbstract/App1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/E_ExtendInterfaceAbstract/Garen.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/E_ExtendInterfaceAbstract/Hero$BattleScore.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/E_ExtendInterfaceAbstract/Hero$EnemyCrystal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/E_ExtendInterfaceAbstract/Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/E_ExtendInterfaceAbstract/Item.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/E_ExtendInterfaceAbstract/Mortal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/F_Date/MyCalendar.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javabasic/F_Date/MyDate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/GarbageCollection/UseGC$Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/GarbageCollection/UseGC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/Reflection/ADHero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/Reflection/APHero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/Reflection/Reflection$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/Reflection/Reflection$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/Reflection/Reflection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/Reflection/hero.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/Reflection/hero2.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/annotation/MetaAnnotation/AnnotationInherited.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/annotation/MetaAnnotation/MetaAnnotation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/annotation/basicbuiltinannotations/TestAnnotations.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/annotation/basicbuiltinannotations/TestFunctionalInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/annotation/diyannotation/DBUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/annotation/diyannotation/DIY_Annotation" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/annotation/diyannotation/JDBCConfig.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/annotation/diyannotation/NoAnnotationDBUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/annotation/hibernate_annotation/Annotationclassification" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/annotation/hibernate_annotation/Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/annotation/hibernate_annotation/MyColumn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/annotation/hibernate_annotation/MyEntity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/annotation/hibernate_annotation/MyGeneratedValue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/annotation/hibernate_annotation/MyId.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/annotation/hibernate_annotation/MyTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javahigh/annotation/hibernate_annotation/ParseHibernateAnnotation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/a_exception/EnemyHeroIsDeadException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/a_exception/ExceptionType.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/a_exception/IndexIsNagetiveException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/a_exception/IndexIsOutofRangeException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/a_exception/JavaException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/a_exception/MyThrowable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/a_exception/TestEnemyHeroIsDeadException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/a_exception/ThrowableException.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/b_IO/ChangeDefaultCoding.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/b_IO/DataInputOutputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/b_IO/EncodeDecode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/b_IO/FileMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/b_IO/IO.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/b_IO/IO_Summary" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/b_IO/ObjectInputOutputStream.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/b_IO/ReadFromConsole.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/b_IO/file.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/b_IO/file2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/b_IO/fileoutput.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/b_IO/garen.lol" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_collection/ArrayListVSLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_collection/BinaryTreeEfficiency.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_collection/HeroNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_collection/MyArrayList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_collection/MyLinkedList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_collection/Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_collection/UseCollections$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_collection/UseCollections$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_collection/UseCollections$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_collection/UseCollections$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_collection/UseCollections.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_collection/java-collection-hierarchy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_map/Entry.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_map/HashMapSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_map/HashMapTraversalWays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_map/HashSetSearch.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_map/HashsetVSLinkedHashSetVSTreeSet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_map/IHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_map/MyHashCode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_map/MyHashMap.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_map/MyHashtable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/c_map/map-hierarchy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/d_generic/GenericNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/d_generic/GenericStack.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/d_generic/UseGeneric.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/d_generic/WaldcardDeomo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/d_generic/WaldcardDeomo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/e_lambda/Aggregate$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/e_lambda/Aggregate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/e_lambda/HeroChecker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/e_lambda/TestLambda$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/e_lambda/TestLambda$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/e_lambda/TestLambda.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/Atomic/TestAtomic$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/Atomic/TestAtomic$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/Atomic/TestAtomic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/CreateThread/4 ways to implement Java multithreads" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/CreateThread/CallableThreadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/CreateThread/KillAnonymous$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/CreateThread/KillAnonymous$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/CreateThread/KillAnonymous.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/CreateThread/KillRunnable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/CreateThread/KillThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/CreateThread/WithoutThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/Lock/DeadLockDemo$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/Lock/DeadLockDemo$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/Lock/DeadLockDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/Lock/MyLock$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/Lock/MyLock$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/Lock/MyLock$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/Lock/MyLock$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/Lock/MyLock$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/Lock/MyLock$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/Lock/MyLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/Lock/SolveDeadLock$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/Lock/SolveDeadLock$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/Lock/SolveDeadLock.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadBasicMethods$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadBasicMethods$10.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadBasicMethods$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadBasicMethods$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadBasicMethods$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadBasicMethods$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadBasicMethods$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadBasicMethods$7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadBasicMethods$8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadBasicMethods$9.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadBasicMethods.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadInteraction/ThreadInteraction$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadInteraction/ThreadInteraction$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadInteraction/ThreadInteraction$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadInteraction/ThreadInteraction$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadInteraction/ThreadInteraction$5.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadInteraction/ThreadInteraction$6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadInteraction/ThreadInteraction$HurtThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadInteraction/ThreadInteraction$RecoverThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadInteraction/ThreadInteraction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadInteraction/ThreadInteraction.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadPool/MyThreadPool$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadPool/MyThreadPool$TaskConsumeThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadPool/MyThreadPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadPool/UseThreadPoolExecutor$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadPool/UseThreadPoolExecutor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadSafety/ThreadSafety.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadSynchronous/SolveSynchronousProblem$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadSynchronous/SolveSynchronousProblem$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadSynchronous/SolveSynchronousProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadSynchronous/SolveSynchronousProblem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadSynchronous/SynchronousProblem$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadSynchronous/SynchronousProblem$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadSynchronous/SynchronousProblem.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/f_multithread/ThreadSynchronous/SynchronousProblem.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/g_JDBC/DAO/DAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/g_JDBC/DAO/Hero.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/g_JDBC/DAO/HeroDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/g_JDBC/ExecuteANDExecuteUpdate.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/g_JDBC/TestJDBC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/g_JDBC/TestORM.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/g_JDBC/TestPreparedStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/g_JDBC/TestTransaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/g_JDBC/connectionpool/ConnectionPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/g_JDBC/connectionpool/TestConnectionPool.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/g_JDBC/connectionpool/WorkingThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/h_GUI/FifthGUIMenu.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/h_GUI/FirstGUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/h_GUI/FirstGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/h_GUI/FourthGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/h_GUI/HeroTableModel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/h_GUI/SecondGUI$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/h_GUI/SecondGUI$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/h_GUI/SecondGUI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/h_GUI/Table.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/h_GUI/ThirdGUIUsingLayout$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/h_GUI/ThirdGUIUsingLayout$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/h_GUI/ThirdGUIUsingLayout$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/h_GUI/ThirdGUIUsingLayout.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/i_websocket/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/i_websocket/ExplainSocket" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/i_websocket/GUIClient$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/i_websocket/GUIClient$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/i_websocket/GUIClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/i_websocket/GUIServer$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/i_websocket/GUIServer$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/i_websocket/GUIServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/i_websocket/PingIP.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/i_websocket/RecieveThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/i_websocket/SendThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/i_websocket/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/j_clone/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/javamiddle/j_clone/TestClone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/GenericResponse$GenericResponseBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/GenericResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/RuleEngineAction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Test$Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Test.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -43,76 +454,28 @@
     <expand />
     <select />
   </component>
+  <component name="DockManager">
+    <window id="1">
+      <content type="file-editors">
+        <state>
+          <leaf>
+            <file pinned="false" current-in-tab="true">
+              <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/concurrence/multithreads/Lock.jpg">
+                <provider selected="true" editor-type-id="images" />
+              </entry>
+            </file>
+          </leaf>
+        </state>
+      </content>
+    </window>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/intru.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/AdvancedMediaPlayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/AdapterPatternDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/Mp4Player.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/MediaPlayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/concurrence/completablefuturetest/CompletableFutureTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/AudioPlayer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/MediaAdapter.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            <state relative-caret-position="-2884">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -130,16 +493,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>CheckRuleAssertResponse</find>
-      <find>nextIn</find>
-      <find>segments</find>
-      <find>Entry</find>
-      <find>K key, V value)</find>
-      <find>segment</find>
-      <find>static class no</find>
-      <find>put(</find>
-      <find>this.</find>
-      <find>active</find>
       <find>(Shape)</find>
       <find>桃子</find>
       <find>ribbon:</find>
@@ -160,6 +513,16 @@
       <find>ThreadPoolExecutor(</find>
       <find>done</find>
       <find>begin</find>
+      <find>getState</find>
+      <find>compareAndSetState</find>
+      <find>CAS</find>
+      <find>abstract</find>
+      <find>sHeldExclusively</find>
+      <find>tryAcquire</find>
+      <find>tryAcquire(</find>
+      <find>loadFrontRequireField</find>
+      <find>loadfr</find>
+      <find>Class.forName</find>
     </findStrings>
     <dirStrings>
       <dir>E:\SSM\StudyJava\src\JavaMiddle\Exception</dir>
@@ -207,10 +570,7 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/test/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/a_interview/framework/mybatias/mybatis.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/a_interview/concurrence/multithreads/thread、lock" />
-        <option value="$USER_HOME$/.m2/settings.xml" />
         <option value="$PROJECT_DIR$/src/main/java/test/GenericResponse.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/a_interview/framework/spring/aop/statisticproxy/HelloInterface.java" />
         <option value="$PROJECT_DIR$/src/main/java/a_interview/framework/spring/aop/statisticproxy/Hello.java" />
         <option value="$PROJECT_DIR$/src/main/java/a_interview/framework/spring/aop/dynamiccproxy/ByeInterface.java" />
@@ -229,7 +589,10 @@
         <option value="$PROJECT_DIR$/src/main/java/test/RuleEngineAction.java" />
         <option value="$PROJECT_DIR$/src/main/java/javamiddle/f_multithread/ThreadPool/UseThreadPoolExecutorFindFile.java" />
         <option value="$PROJECT_DIR$/src/main/java/javamiddle/f_multithread/ThreadPool/UseThreadPoolExecutor.java" />
+        <option value="$USER_HOME$/.m2/settings.xml" />
         <option value="$PROJECT_DIR$/src/main/java/test/Test.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/a_interview/concurrence/multithreads/thread、lock" />
       </list>
     </option>
   </component>
@@ -243,15 +606,19 @@
   </component>
   <component name="MavenProjectNavigator">
     <treeState>
-      <expand />
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Profiles" type="6783ec58:MavenProjectsStructure$ProfilesNode" />
+        </path>
+      </expand>
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
-    <option name="y" value="-8" />
-    <option name="width" value="1616" />
-    <option name="height" value="916" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="1365" />
+    <option name="width" value="1696" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -262,31 +629,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Production">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="StudyJava" type="cbb8eebc:String" user="StudyJava" />
-            </path>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="StudyJava" type="cbb8eebc:String" user="StudyJava" />
-              <item name="src/main/java" type="cbb8eebc:String" user="src/main/java" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-        <subPane subId="Project Files">
-          <expand>
-            <path>
-              <item name="Root" type="cbb8eebc:String" user="Root" />
-              <item name="StudyJava" type="cbb8eebc:String" user="StudyJava" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -338,7 +680,36 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="a_interview" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrence" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="a_interview" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrence" type="462c0819:PsiDirectoryNode" />
+              <item name="completablefuturetest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="a_interview" type="462c0819:PsiDirectoryNode" />
+              <item name="concurrence" type="462c0819:PsiDirectoryNode" />
+              <item name="multithreads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="a_interview" type="462c0819:PsiDirectoryNode" />
+              <item name="Sort" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
@@ -348,7 +719,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="a_interview" type="462c0819:PsiDirectoryNode" />
               <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="structuralmode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
@@ -357,56 +727,36 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="a_interview" type="462c0819:PsiDirectoryNode" />
-              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
-              <item name="structuralmode" type="462c0819:PsiDirectoryNode" />
-              <item name="adapter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudyJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="framework" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Production">
+          <expand>
             <path>
-              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="StudyJava" type="cbb8eebc:String" user="StudyJava" />
             </path>
             <path>
-              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="StudyJava" type="cbb8eebc:String" user="StudyJava" />
+              <item name="src/main/java" type="cbb8eebc:String" user="src/main/java" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+        <subPane subId="Project Files">
+          <expand>
             <path>
-              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 1.8 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="rt.jar" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="util" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrent" type="462c0819:PsiDirectoryNode" />
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="StudyJava" type="cbb8eebc:String" user="StudyJava" />
             </path>
           </expand>
           <select />
@@ -418,14 +768,14 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/SSM/StudyJava/src/Exams/Stack/MyStack.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1587453001875" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594808954150" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="E:/Register/Reg3.0_Code_New/gisquest-realestate/realestate-platform-reg" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="fileTemplates" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -470,12 +820,25 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.Test">
-    <configuration name="RuleEngineAction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.RuleEngineAction" />
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javamiddle.i_websocket.Client" />
       <module name="StudyJava" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="test.*" />
+          <option name="PATTERN" value="javamiddle.i_websocket.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javamiddle.i_websocket.Server" />
+      <module name="StudyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javamiddle.i_websocket.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -522,19 +885,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UseThreadPoolExecutorFindFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javamiddle.f_multithread.ThreadPool.UseThreadPoolExecutorFindFile" />
-      <module name="StudyJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javamiddle.f_multithread.ThreadPool.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
       <module name="JavaBasic" />
       <option name="VM_PARAMETERS" />
@@ -549,19 +899,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.UseThreadPoolExecutorFindFile" />
-      <item itemvalue="Application.RuleEngineAction" />
       <item itemvalue="Application.UseThreadPoolExecutor" />
       <item itemvalue="Application.Test$Worker" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Server" />
+      <item itemvalue="Application.Client" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
         <item itemvalue="Application.Test$Worker" />
         <item itemvalue="Application.UseThreadPoolExecutor" />
-        <item itemvalue="Application.UseThreadPoolExecutorFindFile" />
-        <item itemvalue="Application.RuleEngineAction" />
       </list>
     </recent_temporary>
   </component>
@@ -690,7 +1040,15 @@
       <workItem from="1586738709179" duration="2685000" />
       <workItem from="1586827289990" duration="9140000" />
       <workItem from="1587085353748" duration="6574000" />
-      <workItem from="1587344424566" duration="2336000" />
+      <workItem from="1587344424566" duration="9870000" />
+      <workItem from="1590484055405" duration="297000" />
+      <workItem from="1590484675805" duration="808000" />
+      <workItem from="1591859175297" duration="1106000" />
+      <workItem from="1592533824643" duration="1402000" />
+      <workItem from="1592544683405" duration="2970000" />
+      <workItem from="1592548442563" duration="3324000" />
+      <workItem from="1594362309499" duration="830000" />
+      <workItem from="1594703316951" duration="4490000" />
     </task>
     <servers />
   </component>
@@ -718,7 +1076,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="801189000" />
+    <option name="totallyTimeSpent" value="823950000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -730,9 +1088,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1616" height="916" extended-state="6" />
+    <frame x="1358" y="-8" width="1696" height="1066" extended-state="7" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28084832" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29339853" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -741,19 +1100,20 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32800853" />
-      <window_info active="true" anchor="bottom" id="Debug" order="2" sideWeight="0.62329805" visible="true" weight="0.22397892" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.55077124" weight="0.37446353" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.3290735" />
       <window_info anchor="bottom" id="Messages" order="6" sideWeight="0.4946695" weight="0.3253833" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5074627" side_tool="true" weight="0.3855165" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.4492288" side_tool="true" weight="0.37549406" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49871466" weight="0.3290735" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49253732" weight="0.20158103" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49253732" weight="0.24689165" />
       <window_info anchor="bottom" id="Dependency Viewer" order="11" weight="0.8157182" />
-      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.8214826" weight="0.3424191" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.8214826" weight="0.34227467" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" order="14" />
+      <window_info anchor="bottom" id="Analysis" order="15" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -761,10 +1121,10 @@
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Database" order="7" weight="0.32978722" />
+      <window_info anchor="right" id="Database" order="7" weight="0.3294621" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295129" />
-      <window_info anchor="right" id="Maven" order="10" weight="0.21529563" />
+      <window_info anchor="right" id="Maven" order="10" weight="0.22310513" />
       <window_info anchor="right" id="Bean Validation" order="11" />
     </layout>
     <layout-to-restore>
@@ -1049,193 +1409,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/f_multithread/CreateThread/KillRunnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/concurrence/multithreads/thread、lock">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/f_multithread/CreateThread/4 ways to implement Java multithreads">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Runnable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="55" column="17" selection-start-line="55" selection-start-column="17" selection-end-line="55" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="294" column="29" selection-start-line="294" selection-start-column="29" selection-end-line="294" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="266" column="13" selection-start-line="266" selection-start-column="13" selection-end-line="266" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/CompletableFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="109" column="13" selection-start-line="109" selection-start-column="13" selection-end-line="109" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/Lock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="166" column="17" selection-start-line="166" selection-start-column="17" selection-end-line="166" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/concurrence/completablefuturetest/CompletableFutureTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Enum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="54" column="22" selection-start-line="54" selection-start-column="22" selection-end-line="54" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Boolean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="42" column="19" selection-start-line="42" selection-start-column="19" selection-end-line="42" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/f_multithread/Lock/DeadLockDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/f_multithread/ThreadSafety/ThreadSafety.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/f_multithread/ThreadSynchronous/SolveSynchronousProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="38" column="13" selection-start-line="38" selection-start-column="13" selection-end-line="38" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/f_multithread/Lock/SolveDeadLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="23" column="17" selection-start-line="23" selection-start-column="14" selection-end-line="23" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/ThreadFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="57" column="17" selection-start-line="57" selection-start-column="17" selection-end-line="57" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/ThreadLocal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6118">
-          <caret line="367" column="55" lean-forward="true" selection-start-line="367" selection-start-column="55" selection-end-line="367" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/java/lang/ThreadLocal.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-513" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/f_multithread/CreateThread/KillThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="36" selection-start-line="2" selection-start-column="36" selection-end-line="2" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1292">
-          <caret line="140" column="6" selection-start-line="140" selection-start-column="6" selection-end-line="140" selection-end-column="6" />
-          <folding>
-            <element signature="e#15704#15705#0" expanded="true" />
-            <element signature="e#15770#15771#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/g_JDBC/connectionpool/MyConnectionPool.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/java/lang/Integer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="51" selection-start-line="6" selection-start-column="45" selection-end-line="6" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javabasic/A_BasicType/PrimeNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Double.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="48" column="19" selection-start-line="48" selection-start-column="19" selection-end-line="48" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/Executors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9006">
-          <caret line="519" column="39" selection-start-line="519" selection-start-column="39" selection-end-line="519" selection-end-column="39" />
-          <folding>
-            <element signature="e#0#31219#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/g_JDBC/connectionpool/TestConnectionPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="47" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/g_JDBC/connectionpool/WorkThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/g_JDBC/connectionpool/ConnectionPool.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
@@ -1275,13 +1448,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="1339" column="25" selection-start-line="1339" selection-start-column="25" selection-end-line="1339" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/f_multithread/ThreadPool/UseThreadPoolExecutor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="348">
@@ -1296,17 +1462,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1976">
           <caret line="138" column="13" selection-start-line="138" selection-start-column="13" selection-end-line="138" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/CountDownLatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4750">
-          <caret line="290" column="18" selection-start-line="290" selection-start-column="18" selection-end-line="290" selection-end-column="18" />
-          <folding>
-            <element signature="e#9899#9900#0" expanded="true" />
-            <element signature="e#9936#9937#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1356,31 +1511,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/MediaAdapter.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/adapter_pattern_uml_diagram.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/Unsafe.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="187">
+          <caret line="284" column="32" selection-start-line="284" selection-start-column="32" selection-end-line="284" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/intru.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/Mp4Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/AdvancedMediaPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        <state relative-caret-position="608">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
@@ -1391,20 +1535,240 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/adapter_pattern_uml_diagram.jpg">
-      <provider selected="true" editor-type-id="images" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/CountDownLatch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2413">
+          <caret line="160" column="31" selection-start-line="160" selection-start-column="31" selection-end-line="160" selection-end-column="31" />
+          <folding>
+            <element signature="e#9899#9900#0" expanded="true" />
+            <element signature="e#9936#9937#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/Mp4Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/com/gisquest/cloud/platform-rulesengine-client/1.1.0-IP-SNAPSHOT/platform-rulesengine-client-1.1.0-IP-SNAPSHOT.pom" />
+    <entry file="file://$USER_HOME$/.m2/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/AdvancedMediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="378" column="7" selection-start-line="378" selection-start-column="7" selection-end-line="378" selection-end-column="7" />
+          <folding>
+            <element signature="e#0#90972#0" expanded="true" />
+            <element signature="docComment;class#AbstractQueuedSynchronizer#0" />
+            <element signature="e#11804#16002#0" />
+            <element signature="e#21939#22163#0" />
+            <element signature="e#22675#22676#0" expanded="true" />
+            <element signature="e#22703#22704#0" expanded="true" />
+            <element signature="e#22972#23426#0" />
+            <element signature="e#23930#24524#0" />
+            <element signature="e#24530#25149#0" />
+            <element signature="e#25155#25517#0" />
+            <element signature="e#25523#26555#0" />
+            <element signature="e#26561#28061#0" />
+            <element signature="e#28067#29450#0" />
+            <element signature="e#29506#31216#0" />
+            <element signature="e#31222#32539#0" />
+            <element signature="e#32701#32953#0" />
+            <element signature="e#33368#34351#0" />
+            <element signature="e#34357#35201#0" />
+            <element signature="e#35207#36531#0" />
+            <element signature="e#36537#37566#0" />
+            <element signature="e#37572#37668#0" />
+            <element signature="e#37572#38535#0" />
+            <element signature="e#38541#39984#0" />
+            <element signature="e#41392#41393#0" expanded="true" />
+            <element signature="e#41449#41450#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1539">
+          <caret line="115" column="55" selection-start-line="115" selection-start-column="55" selection-end-line="115" selection-end-column="55" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/AudioPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="37" lean-forward="true" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        <state relative-caret-position="133">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/com/gisquest/cloud/platform-rulesengine-client/1.2.0-SNAPSHOT/platform-rulesengine-client-1.2.0-SNAPSHOT.pom" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/i_websocket/SendThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+          <folding>
+            <element signature="e#269#270#0" expanded="true" />
+            <element signature="e#295#296#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12217">
+          <caret line="698" column="29" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
+          <folding>
+            <element signature="e#15704#15705#0" expanded="true" />
+            <element signature="e#15770#15771#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/i_websocket/PingIP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/i_websocket/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/gisquest/cloud/platform-rulesengine-client/1.2.0-SNAPSHOT/platform-rulesengine-client-1.2.0-20200403.021046-1.jar!/com/gisquest/cloud/ruleexcutor/client/GisRuleEngineClient.class" />
+    <entry file="jar://$MAVEN_REPOSITORY$/com/gisquest/cloud/platform-rulesengine-client/1.2.0-SNAPSHOT/platform-rulesengine-client-1.2.0-20200403.021046-1-sources.jar!/com/gisquest/cloud/ruleexcutor/client/GisRuleEngineClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/i_websocket/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="18" column="20" selection-start-line="18" selection-start-column="20" selection-end-line="18" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="53" column="5" selection-start-line="53" selection-start-column="5" selection-end-line="53" selection-end-column="5" />
+        <state relative-caret-position="836">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="75" column="14" lean-forward="true" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/g_JDBC/ExecuteANDExecuteUpdate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/mq/topic/TopicProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/gisquest/cloud/platform-rulesengine-client/1.2.1-SNAPSHOT/platform-rulesengine-client-1.2.1-SNAPSHOT-sources.jar!/com/gisquest/cloud/ruleexcutor/client/GisRuleEngineClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9196">
+          <caret line="510" column="43" selection-start-line="510" selection-start-column="43" selection-end-line="510" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/mq/ActiveMQUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/mq/queue/TestProducer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$MAVEN_REPOSITORY$/com/gisquest/cloud/platform-rulesengine-client/1.2.1-SNAPSHOT/platform-rulesengine-client-1.2.1-SNAPSHOT.pom">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/net/ServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="9101">
+          <caret line="506" column="18" selection-start-line="506" selection-start-column="18" selection-end-line="506" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/i_websocket/ExplainSocket">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/i_websocket/GUIClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/MediaAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/mq/queue/TestConsumer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="39" column="42" selection-start-line="39" selection-start-column="42" selection-end-line="39" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/concurrence/multithreads/Lock.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/concurrence/multithreads/thread、lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="42" selection-start-column="42" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/concurrence/completablefuturetest/CompletableFutureTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2884">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>

@@ -74,12 +74,14 @@ public class Test {
 
      /*   Mono<String> response = WebClient.create().get().uri("http://192.168.99.71:39001/ruleEngine/projectRules").retrieve().bodyToMono(String.class);
         System.out.println(response.block());*/
-        int N = 8; //工人数
+       /* int N = 8; //工人数
         Semaphore semaphore = new Semaphore(5); //机器数目
         for(int i=0;i<N;i++) {
             new Worker(i,semaphore).start();
-        }
-
+        }*/
+        List<String> list = Arrays.asList("foo");
+        String joined = String.join(",", list);
+        System.out.println(joined);
     }
 
 

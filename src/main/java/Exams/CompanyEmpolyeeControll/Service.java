@@ -74,7 +74,7 @@ public class Service {
 
     }
     public static void main(String[] args) {
-        File file = new File("E:\\SSM\\StudyJava\\src\\Exams\\CompanyEmpolyeeControll\\Employees.txt");
+        File file = new File("E:\\Java\\StudyJava\\src\\main\\java\\Exams\\CompanyEmpolyeeControll\\Employees.txt");
         List<Employee> employees = generateEmployees(file);
         System.out.println("generateEmployees: ");
         employees.forEach(employee -> System.out.println(employee));

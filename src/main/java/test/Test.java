@@ -79,9 +79,14 @@ public class Test {
         for(int i=0;i<N;i++) {
             new Worker(i,semaphore).start();
         }*/
-        List<String> list = Arrays.asList("foo");
+/*        List<String> list = Arrays.asList("foo");
         String joined = String.join(",", list);
-        System.out.println(joined);
+        System.out.println(joined);*/
+
+        List<A> list = new ArrayList<>();
+        TestList.buildTest(false, list);
+        System.out.println(list);
+
     }
 
 

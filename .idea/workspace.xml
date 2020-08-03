@@ -9,6 +9,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_gisquest_cloud_platform_rulesengine_client_1_2_1_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_gisquest_cloud_platform_rulesengine_client_1_2_1_SNAPSHOT.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Exams/CompanyEmpolyeeControll/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exams/CompanyEmpolyeeControll/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/a_interview/database/mysql/mysql.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/a_interview/database/mysql/mysql.tex" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/a_interview/jvm/jvm.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/a_interview/jvm/jvm.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
     </list>
@@ -42,15 +43,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Exams/CompanyEmpolyeeControll/Company.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Exams/CompanyEmpolyeeControll/Employee.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -101,11 +93,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/test/Test.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="637">
               <caret line="89" selection-start-line="89" selection-end-line="89" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/database/mysql/mysql.tex">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -190,7 +191,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/flyweight/ShapeFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/flyweight/FlyweightPatternDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/flyweight/Shape.java" />
         <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/flyweight/inrru" />
@@ -241,6 +241,7 @@
         <option value="$PROJECT_DIR$/src/main/java/Exams/CompanyEmpolyeeControll/Service.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/TestList.java" />
+        <option value="$PROJECT_DIR$/src/main/java/a_interview/database/mysql/mysql.tex" />
       </list>
     </option>
   </component>
@@ -342,47 +343,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Exams" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudyJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javaapplication" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudyJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javabasic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudyJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javahigh" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudyJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="javamiddle" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="StudyJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="a_interview" type="462c0819:PsiDirectoryNode" />
+              <item name="mysql" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
@@ -409,7 +371,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/SSM/StudyJava/src/Exams/Stack/MyStack.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1595931098855" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596439641877" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="E:/Register/Reg3.0_Code_New/gisquest-realestate/realestate-platform-reg" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -696,7 +658,7 @@
       <workItem from="1595225559809" duration="4028000" />
       <workItem from="1595817810741" duration="2381000" />
       <workItem from="1595983767002" duration="537000" />
-      <workItem from="1596417030764" duration="492000" />
+      <workItem from="1596417030764" duration="1224000" />
     </task>
     <servers />
   </component>
@@ -724,7 +686,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="835257000" />
+    <option name="totallyTimeSpent" value="835989000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -737,7 +699,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1696" height="1066" extended-state="7" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.39669928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -756,7 +717,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.4492288" side_tool="true" weight="0.37549406" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49871466" weight="0.56545657" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49253732" weight="0.6820682" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49253732" visible="true" weight="0.6820682" />
       <window_info anchor="bottom" id="Dependency Viewer" order="11" weight="0.8157182" />
       <window_info anchor="bottom" id="Run" order="12" sideWeight="0.8214826" weight="0.34227467" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
@@ -769,7 +730,7 @@
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info active="true" anchor="right" id="Database" order="7" visible="true" weight="0.4077017" />
+      <window_info anchor="right" id="Database" order="7" visible="true" weight="0.4077017" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295129" />
       <window_info anchor="right" id="Maven" order="10" weight="0.22310513" />
@@ -1075,13 +1036,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/f_multithread/Atomic/TestAtomic.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="44" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/f_multithread/ThreadInteraction/ThreadInteraction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3382">
@@ -1431,6 +1385,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="637">
           <caret line="89" selection-start-line="89" selection-end-line="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/database/mysql/mysql.tex">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>

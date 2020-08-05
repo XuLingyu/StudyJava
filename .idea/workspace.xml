@@ -5,6 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1567270b-a9bf-4947-b77d-9dccac6d4465" name="Default" comment="【提交人】：名字&#10;【提交类型】：BUG/新功能/功能优化/代码重构/项目新建&#10;【jiar号码】：&#10;【问题描述】：&#10;【修改内容】：">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Exams/chuanglin/bolwling/Bolwling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/a_interview/cache/redis/redis.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/test/TestList.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_gisquest_cloud_platform_rulesengine_client_1_2_1_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_gisquest_cloud_platform_rulesengine_client_1_2_1_SNAPSHOT.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -44,15 +46,6 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Exams/CompanyEmpolyeeControll/Employee.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Exams/CompanyEmpolyeeControll/Employees.txt">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -60,7 +53,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Exams/CompanyEmpolyeeControll/Service.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1748">
+            <state relative-caret-position="348">
               <caret line="95" selection-start-line="95" selection-end-line="95" />
             </state>
           </provider>
@@ -69,17 +62,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/test/RuleEngineAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/GenericResponse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+            <state relative-caret-position="399">
+              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -102,20 +86,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/database/mysql/mysql.tex">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/TestList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="57">
+              <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -123,8 +98,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Collections.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7239">
+            <state relative-caret-position="481">
               <caret line="420" column="23" selection-start-line="420" selection-start-column="23" selection-end-line="420" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/Exams/chuanglin/bolwling/Bolwling.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="244">
+              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -191,8 +175,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/flyweight/FlyweightPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/flyweight/Shape.java" />
         <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/flyweight/inrru" />
         <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/proxy/Image.java" />
         <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/proxy/intrur" />
@@ -242,6 +224,8 @@
         <option value="$PROJECT_DIR$/src/main/java/test/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/TestList.java" />
         <option value="$PROJECT_DIR$/src/main/java/a_interview/database/mysql/mysql.tex" />
+        <option value="$PROJECT_DIR$/src/main/java/a_interview/cache/redis/redis.txt" />
+        <option value="$PROJECT_DIR$/src/main/java/Exams/chuanglin/bolwling/Bolwling.java" />
       </list>
     </option>
   </component>
@@ -264,10 +248,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="1514" />
-    <option name="y" value="294" />
-    <option name="width" value="1358" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1418" />
+    <option name="y" value="194" />
+    <option name="width" value="1360" />
     <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -335,7 +319,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="a_interview" type="462c0819:PsiDirectoryNode" />
+              <item name="Exams" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
@@ -343,8 +327,8 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="a_interview" type="462c0819:PsiDirectoryNode" />
-              <item name="mysql" type="462c0819:PsiDirectoryNode" />
+              <item name="Exams" type="462c0819:PsiDirectoryNode" />
+              <item name="bolwling" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
@@ -371,7 +355,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/SSM/StudyJava/src/Exams/Stack/MyStack.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596439641877" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596607617825" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="last_opened_file_path" value="E:/Register/Reg3.0_Code_New/gisquest-realestate/realestate-platform-reg" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -422,7 +406,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
+  <component name="RunManager" selected="Application.Bolwling">
+    <configuration name="Bolwling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exams.chuanglin.bolwling.Bolwling" />
+      <module name="StudyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Exams.chuanglin.bolwling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="javamiddle.i_websocket.Client" />
       <module name="StudyJava" />
@@ -462,19 +459,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test$Worker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test.Test$Worker" />
-      <module name="StudyJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="test.Test" />
       <module name="StudyJava" />
@@ -502,19 +486,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Test$Worker" />
       <item itemvalue="Application.Test" />
       <item itemvalue="Application.Server" />
       <item itemvalue="Application.Client" />
       <item itemvalue="Application.Service" />
+      <item itemvalue="Application.Bolwling" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Bolwling" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.Service" />
         <item itemvalue="Application.Client" />
         <item itemvalue="Application.Server" />
-        <item itemvalue="Application.Test$Worker" />
       </list>
     </recent_temporary>
   </component>
@@ -658,7 +642,7 @@
       <workItem from="1595225559809" duration="4028000" />
       <workItem from="1595817810741" duration="2381000" />
       <workItem from="1595983767002" duration="537000" />
-      <workItem from="1596417030764" duration="1224000" />
+      <workItem from="1596417030764" duration="5774000" />
     </task>
     <servers />
   </component>
@@ -686,7 +670,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="835989000" />
+    <option name="totallyTimeSpent" value="840539000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -698,9 +682,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1696" height="1066" extended-state="7" />
+    <frame x="1358" y="-8" width="1696" height="1066" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.39669928" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.39669928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -709,7 +694,7 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32800853" />
-      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.55077124" visible="true" weight="0.3740374" />
+      <window_info active="true" anchor="bottom" id="Debug" order="2" sideWeight="0.55077124" visible="true" weight="0.3740374" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.3290735" />
@@ -717,9 +702,9 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.4492288" side_tool="true" weight="0.37549406" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49871466" weight="0.56545657" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49253732" visible="true" weight="0.6820682" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49253732" weight="0.2750275" />
       <window_info anchor="bottom" id="Dependency Viewer" order="11" weight="0.8157182" />
-      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.8214826" weight="0.34227467" />
+      <window_info anchor="bottom" id="Run" order="12" sideWeight="0.8214826" weight="0.3421342" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Spring" order="14" />
       <window_info anchor="bottom" id="Analysis" order="15" />
@@ -730,7 +715,7 @@
       <window_info anchor="right" id="Palette&#9;" order="4" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="right" id="Maven Projects" order="6" />
-      <window_info anchor="right" id="Database" order="7" visible="true" weight="0.4077017" />
+      <window_info anchor="right" id="Database" order="7" weight="0.4077017" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Coverage" order="9" side_tool="true" weight="0.3295129" />
       <window_info anchor="right" id="Maven" order="10" weight="0.22310513" />
@@ -1030,30 +1015,17 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="totalScore" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/f_multithread/ThreadInteraction/ThreadInteraction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3382">
-          <caret line="182" column="19" selection-start-line="182" selection-start-column="19" selection-end-line="182" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/f_multithread/ThreadPool/MyThreadPool.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="36" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="36" />
-          <folding>
-            <element signature="e#1853#1854#0" expanded="true" />
-            <element signature="e#1888#1889#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/MediaPlayer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
@@ -1336,23 +1308,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Exams/CompanyEmpolyeeControll/Employees.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Exams/CompanyEmpolyeeControll/Service.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1748">
-          <caret line="95" selection-start-line="95" selection-end-line="95" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/RuleEngineAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test/GenericResponse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
@@ -1374,13 +1329,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Collections.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7239">
-          <caret line="420" column="23" selection-start-line="420" selection-start-column="23" selection-end-line="420" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="637">
@@ -1388,10 +1336,48 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/cache/redis/redis.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="56" selection-start-column="56" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/database/mysql/mysql.tex">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        <state relative-caret-position="57">
+          <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/RuleEngineAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Exams/CompanyEmpolyeeControll/Employees.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Exams/CompanyEmpolyeeControll/Service.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="95" selection-start-line="95" selection-end-line="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="420" column="23" selection-start-line="420" selection-start-column="23" selection-end-line="420" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Exams/chuanglin/bolwling/Bolwling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
         </state>
       </provider>
     </entry>

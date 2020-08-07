@@ -5,15 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1567270b-a9bf-4947-b77d-9dccac6d4465" name="Default" comment="【提交人】：名字&#10;【提交类型】：BUG/新功能/功能优化/代码重构/项目新建&#10;【jiar号码】：&#10;【问题描述】：&#10;【修改内容】：">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Exams/chuanglin/bolwling/Bolwling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/a_interview/cache/redis/redis.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/test/TestList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_gisquest_cloud_platform_rulesengine_client_1_2_1_SNAPSHOT.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_gisquest_cloud_platform_rulesengine_client_1_2_1_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/Context.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/OperationAdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/OperationMultiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/OperationSubtract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/Strategy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/StrategyPatternDemo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Exams/CompanyEmpolyeeControll/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Exams/CompanyEmpolyeeControll/Service.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/a_interview/database/mysql/mysql.tex" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/a_interview/database/mysql/mysql.tex" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/a_interview/jvm/jvm.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/a_interview/jvm/jvm.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Test$Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/test/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/test/Test.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,69 +47,100 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Exams/CompanyEmpolyeeControll/Employees.txt">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Exams/CompanyEmpolyeeControll/Service.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/creationalmode/factorypattern/ShapeFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="348">
-              <caret line="95" selection-start-line="95" selection-end-line="95" />
+            <state relative-caret-position="-2">
+              <caret column="64" lean-forward="true" selection-start-column="64" selection-end-column="64" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/RuleEngineAction.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/creationalmode/factorypattern/FactoryPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+            <state relative-caret-position="38">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/A.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/Strategy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="133">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/test/Test.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/OperationAdd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="637">
-              <caret line="89" selection-start-line="89" selection-end-line="89" />
+            <state relative-caret-position="228">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="e#235#236#0" expanded="true" />
+                <element signature="e#269#270#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/database/mysql/mysql.tex">
+        <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/OperationSubtract.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
+            <state relative-caret-position="228">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Collections.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/OperationMultiply.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="420" column="23" selection-start-line="420" selection-start-column="23" selection-end-line="420" selection-end-column="23" />
+            <state relative-caret-position="228">
+              <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+              <folding>
+                <element signature="e#240#241#0" expanded="true" />
+                <element signature="e#274#275#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/Context.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+              <folding>
+                <element signature="e#271#272#0" expanded="true" />
+                <element signature="e#310#311#0" expanded="true" />
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#367#368#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Exams/chuanglin/bolwling/Bolwling.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/StrategyPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="244">
-              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+            <state relative-caret-position="342">
+              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/creationalmode/factorypattern/Shape.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -175,21 +207,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/flyweight/inrru" />
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/proxy/Image.java" />
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/proxy/intrur" />
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/proxy/Subject.java" />
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/chainofresponsibility/intru" />
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/chainofresponsibility/AbstractLogger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/chainofresponsibility/ConsoleLogger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/chainofresponsibility/ErrorLogger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/chainofresponsibility/FileLogger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/chainofresponsibility/ChainPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/chain/ChainPatternDemo.java" />
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/chain/intru" />
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/structuralmode/chain/AbstractLogger.java" />
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/behavioralmode/observer/Observer.java" />
-        <option value="$PROJECT_DIR$/src/main/java/designpattern/behavioralmode/observer/ObserverPatternDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/designpattern/behavioralmode/observer/Subject.java" />
         <option value="$PROJECT_DIR$/src/main/java/A.java" />
         <option value="$PROJECT_DIR$/src/main/java/concurrence/multithreads/乐观锁悲观锁" />
@@ -221,11 +238,26 @@
         <option value="$PROJECT_DIR$/src/main/java/a_interview/concurrence/multithreads/thread、lock" />
         <option value="$PROJECT_DIR$/src/main/java/a_interview/jvm/jvm.txt" />
         <option value="$PROJECT_DIR$/src/main/java/Exams/CompanyEmpolyeeControll/Service.java" />
-        <option value="$PROJECT_DIR$/src/main/java/test/Test.java" />
         <option value="$PROJECT_DIR$/src/main/java/test/TestList.java" />
         <option value="$PROJECT_DIR$/src/main/java/a_interview/database/mysql/mysql.tex" />
         <option value="$PROJECT_DIR$/src/main/java/a_interview/cache/redis/redis.txt" />
         <option value="$PROJECT_DIR$/src/main/java/Exams/chuanglin/bolwling/Bolwling.java" />
+        <option value="$PROJECT_DIR$/src/main/java/test/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/Dock.java" />
+        <option value="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/GreenHeadDuck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/RedHeadDuck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/FlyBehavior.java" />
+        <option value="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/QuackBehavior.java" />
+        <option value="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/BadFlyBehavior.java" />
+        <option value="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/BadQuack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/StimulateDuck.java" />
+        <option value="$PROJECT_DIR$/src/main/java/a_interview/designpattern/creationalmode/factorypattern/ShapeFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/Strategy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/OperationAdd.java" />
+        <option value="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/OperationSubtract.java" />
+        <option value="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/OperationMultiply.java" />
+        <option value="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/Context.java" />
+        <option value="$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/StrategyPatternDemo.java" />
       </list>
     </option>
   </component>
@@ -249,10 +281,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1418" />
-    <option name="y" value="194" />
-    <option name="width" value="1360" />
-    <option name="height" value="728" />
+    <option name="x" value="1358" />
+    <option name="y" value="-8" />
+    <option name="width" value="1696" />
+    <option name="height" value="1066" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -319,7 +351,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Exams" type="462c0819:PsiDirectoryNode" />
+              <item name="a_interview" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
@@ -327,8 +359,47 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="Exams" type="462c0819:PsiDirectoryNode" />
-              <item name="bolwling" type="462c0819:PsiDirectoryNode" />
+              <item name="a_interview" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="a_interview" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioralmode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="a_interview" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="behavioralmode" type="462c0819:PsiDirectoryNode" />
+              <item name="strategy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="a_interview" type="462c0819:PsiDirectoryNode" />
+              <item name="designpattern" type="462c0819:PsiDirectoryNode" />
+              <item name="creationalmode" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudyJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="StudyJava" type="b2602c69:ProjectViewProjectNode" />
@@ -355,9 +426,9 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/SSM/StudyJava/src/Exams/Stack/MyStack.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596607617825" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596794050925" />
     <property name="create.test.in.the.same.root" value="true" />
-    <property name="last_opened_file_path" value="E:/Register/Reg3.0_Code_New/gisquest-realestate/realestate-platform-reg" />
+    <property name="last_opened_file_path" value="E:/Register/Reg_3.0_Git_Version/gisquest-platform" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -406,7 +477,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Bolwling">
+  <component name="RunManager" selected="Application.StrategyPatternDemo">
     <configuration name="Bolwling" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exams.chuanglin.bolwling.Bolwling" />
       <module name="StudyJava" />
@@ -420,38 +491,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javamiddle.i_websocket.Client" />
-      <module name="StudyJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javamiddle.i_websocket.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javamiddle.i_websocket.Server" />
-      <module name="StudyJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="javamiddle.i_websocket.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Service" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Exams.CompanyEmpolyeeControll.Service" />
       <module name="StudyJava" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Exams.CompanyEmpolyeeControll.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StimulateDuck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a_interview.designpattern.behavioralmode.strategy.StimulateDuck" />
+      <module name="StudyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a_interview.designpattern.behavioralmode.strategy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StrategyPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="a_interview.designpattern.behavioralmode.strategy.StrategyPatternDemo" />
+      <module name="StudyJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="a_interview.designpattern.behavioralmode.strategy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -487,18 +558,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Test" />
-      <item itemvalue="Application.Server" />
-      <item itemvalue="Application.Client" />
       <item itemvalue="Application.Service" />
       <item itemvalue="Application.Bolwling" />
+      <item itemvalue="Application.StimulateDuck" />
+      <item itemvalue="Application.StrategyPatternDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bolwling" />
+        <item itemvalue="Application.StrategyPatternDemo" />
+        <item itemvalue="Application.StimulateDuck" />
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Bolwling" />
         <item itemvalue="Application.Service" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Server" />
       </list>
     </recent_temporary>
   </component>
@@ -642,7 +713,7 @@
       <workItem from="1595225559809" duration="4028000" />
       <workItem from="1595817810741" duration="2381000" />
       <workItem from="1595983767002" duration="537000" />
-      <workItem from="1596417030764" duration="5774000" />
+      <workItem from="1596417030764" duration="13411000" />
     </task>
     <servers />
   </component>
@@ -670,7 +741,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="840539000" />
+    <option name="totallyTimeSpent" value="848176000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -685,7 +756,7 @@
     <frame x="1358" y="-8" width="1696" height="1066" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.39669928" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39669928" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -694,7 +765,7 @@
       <window_info id="Image Layers" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32800853" />
-      <window_info active="true" anchor="bottom" id="Debug" order="2" sideWeight="0.55077124" visible="true" weight="0.3740374" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.55077124" visible="true" weight="0.3410341" />
       <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="5" weight="0.3290735" />
@@ -702,7 +773,7 @@
       <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.4492288" side_tool="true" weight="0.37549406" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" sideWeight="0.49871466" weight="0.56545657" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49253732" weight="0.2750275" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49253732" weight="0.33333334" />
       <window_info anchor="bottom" id="Dependency Viewer" order="11" weight="0.8157182" />
       <window_info anchor="bottom" id="Run" order="12" sideWeight="0.8214826" weight="0.3421342" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
@@ -929,12 +1000,6 @@
           <properties />
           <option name="timeStamp" value="78" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/test/Test.java</url>
-          <line>85</line>
-          <properties />
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>jar://$PROJECT_DIR$/../JDK1.8.0/src.zip!/java/util/ArrayList.java</url>
           <line>208</line>
@@ -1026,157 +1091,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/MediaPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/adapter_pattern_uml_diagram.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/jre/lib/rt.jar!/sun/misc/Unsafe.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="284" column="32" selection-start-line="284" selection-start-column="32" selection-end-line="284" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/intru.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" selection-start-line="32" selection-end-line="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/AdapterPatternDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/CountDownLatch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2413">
-          <caret line="160" column="31" selection-start-line="160" selection-start-column="31" selection-end-line="160" selection-end-column="31" />
-          <folding>
-            <element signature="e#9899#9900#0" expanded="true" />
-            <element signature="e#9936#9937#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/Mp4Player.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/com/gisquest/cloud/platform-rulesengine-client/1.1.0-IP-SNAPSHOT/platform-rulesengine-client-1.1.0-IP-SNAPSHOT.pom" />
-    <entry file="file://$USER_HOME$/.m2/settings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/AdvancedMediaPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/AbstractQueuedSynchronizer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="378" column="7" selection-start-line="378" selection-start-column="7" selection-end-line="378" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#90972#0" expanded="true" />
-            <element signature="docComment;class#AbstractQueuedSynchronizer#0" />
-            <element signature="e#11804#16002#0" />
-            <element signature="e#21939#22163#0" />
-            <element signature="e#22675#22676#0" expanded="true" />
-            <element signature="e#22703#22704#0" expanded="true" />
-            <element signature="e#22972#23426#0" />
-            <element signature="e#23930#24524#0" />
-            <element signature="e#24530#25149#0" />
-            <element signature="e#25155#25517#0" />
-            <element signature="e#25523#26555#0" />
-            <element signature="e#26561#28061#0" />
-            <element signature="e#28067#29450#0" />
-            <element signature="e#29506#31216#0" />
-            <element signature="e#31222#32539#0" />
-            <element signature="e#32701#32953#0" />
-            <element signature="e#33368#34351#0" />
-            <element signature="e#34357#35201#0" />
-            <element signature="e#35207#36531#0" />
-            <element signature="e#36537#37566#0" />
-            <element signature="e#37572#37668#0" />
-            <element signature="e#37572#38535#0" />
-            <element signature="e#38541#39984#0" />
-            <element signature="e#41392#41393#0" expanded="true" />
-            <element signature="e#41449#41450#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/concurrent/locks/ReentrantLock.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1539">
-          <caret line="115" column="55" selection-start-line="115" selection-start-column="55" selection-end-line="115" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/structuralmode/adapter/AudioPlayer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/com/gisquest/cloud/platform-rulesengine-client/1.2.0-SNAPSHOT/platform-rulesengine-client-1.2.0-SNAPSHOT.pom" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/i_websocket/SendThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
-          <folding>
-            <element signature="e#269#270#0" expanded="true" />
-            <element signature="e#295#296#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Thread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="12217">
-          <caret line="698" column="29" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
-          <folding>
-            <element signature="e#15704#15705#0" expanded="true" />
-            <element signature="e#15770#15771#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/i_websocket/PingIP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/i_websocket/Server.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/gisquest/cloud/platform-rulesengine-client/1.2.0-SNAPSHOT/platform-rulesengine-client-1.2.0-20200403.021046-1.jar!/com/gisquest/cloud/ruleexcutor/client/GisRuleEngineClient.class" />
-    <entry file="jar://$MAVEN_REPOSITORY$/com/gisquest/cloud/platform-rulesengine-client/1.2.0-SNAPSHOT/platform-rulesengine-client-1.2.0-20200403.021046-1-sources.jar!/com/gisquest/cloud/ruleexcutor/client/GisRuleEngineClient.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/i_websocket/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -1315,13 +1229,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/A.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/test/TestList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="209">
@@ -1329,17 +1236,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/test/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="637">
-          <caret line="89" selection-start-line="89" selection-end-line="89" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/cache/redis/redis.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="56" selection-start-column="56" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Exams/chuanglin/bolwling/Bolwling.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Collections.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="481">
+          <caret line="420" column="23" selection-start-line="420" selection-start-column="23" selection-end-line="420" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1353,31 +1267,219 @@
     <entry file="file://$PROJECT_DIR$/src/main/java/test/RuleEngineAction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
-          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Exams/CompanyEmpolyeeControll/Employees.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/javamiddle/g_JDBC/TestPreparedStatement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-475">
+          <caret line="50" column="13" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Exams/CompanyEmpolyeeControll/Service.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="348">
+        <state relative-caret-position="463">
           <caret line="95" selection-start-line="95" selection-end-line="95" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Collections.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="420" column="23" selection-start-line="420" selection-start-column="23" selection-end-line="420" selection-end-column="23" />
+        <state relative-caret-position="228">
+          <caret line="41" column="50" selection-start-line="41" selection-start-column="50" selection-end-line="41" selection-end-column="50" />
+          <folding>
+            <element signature="e#1592#1593#0" expanded="true" />
+            <element signature="e#1649#1650#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Exams/chuanglin/bolwling/Bolwling.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/BadQuack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        <state relative-caret-position="133">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <element signature="e#215#216#0" expanded="true" />
+            <element signature="e#258#259#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/QuackBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/RedHeadDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#194#195#0" expanded="true" />
+            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/GreenHeadDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <element signature="e#331#332#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/BadFlyBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+          <folding>
+            <element signature="e#217#218#0" expanded="true" />
+            <element signature="e#265#266#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/FlyBehavior.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/Duck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="e#480#481#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#717#718#0" expanded="true" />
+            <element signature="e#750#751#0" expanded="true" />
+            <element signature="e#774#775#0" expanded="true" />
+            <element signature="e#807#808#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/creationalmode/factorypattern/factory_pattern.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/StimulateDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+          <folding>
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#901#902#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/creationalmode/abstractfactory/abstractfactory_pattern.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/creationalmode/factorypattern/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2">
+          <caret column="64" lean-forward="true" selection-start-column="64" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/creationalmode/factorypattern/Shape.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/creationalmode/factorypattern/FactoryPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/OperationAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#235#236#0" expanded="true" />
+            <element signature="e#269#270#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/OperationSubtract.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/OperationMultiply.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#240#241#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/Strategy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/Context.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="16" lean-forward="true" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+          <folding>
+            <element signature="e#271#272#0" expanded="true" />
+            <element signature="e#310#311#0" expanded="true" />
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#367#368#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/a_interview/designpattern/behavioralmode/strategy/StrategyPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>

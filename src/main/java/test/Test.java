@@ -38,8 +38,18 @@ public class Test {
         st2 = temp;
     }
 
+    public static java.lang.Boolean validateTel(java.lang.String arg0) {
+        java.lang.String regex = "^[京津沪渝冀豫云辽黑湘皖鲁新苏浙赣鄂桂甘晋蒙陕吉闽贵粤青藏川宁琼使领]（\\d{4}）[\\u4E00-\\u9FA5]{0,15}不动产权第\\d{7}号$";
+        if (arg0.matches(regex))return true;
+        return false;
+    }
+
+
     public static void main(String[] args) {
-      System.out.println(JSON.toJSONString(null));
+       System.out.println(validateTel("云（1548）我我我我我我我我我我我我我我我不动产权第0163239号"));
+        System.out.println(validateTel("云（1548）不动产权第0163239号"));
+        System.out.println(validateTel("BDC212100a3455Z4454"));
+        System.out.println(validateTel("1（1548）不动产权第0163239号"));
     }
 
     @Data

@@ -20,23 +20,6 @@ class TargetImpl implements Target {
     }
 }
 
-public class Proxy implements Target{
-
-    private Target target;
-
-    public Proxy(Target target) {
-        this.target = target;
-    }
-
-    @Override
-    public String execute() {
-        System.out.println("perProcess");
-        String result = this.target.execute();
-        System.out.println("postProcess");
-        return result;
-    }
-}
-
 class Proxy implements Target{
 
     private Target target;
@@ -57,12 +40,9 @@ class Proxy implements Target{
 class ProxyPatternDemo {
 
     public static void main(String[] args) {
-        Image image = new ProxyImage("test_10mb.jpg");
-
-        // 图像将从磁盘加载
-        image.display();
-        System.out.println("");
-        // 图像不需要从磁盘加载
-        image.display();
+        Target target = new TargetImpl();
+        Proxy p = new Proxy(target);
+        String result =  p.execute();
+        System.out.println(result);
     }
 }

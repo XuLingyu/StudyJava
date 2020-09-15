@@ -9,3 +9,7 @@ https://blog.csdn.net/moHedong/article/details/79618048
 加载->验证、准备、解析->初始化->使用->卸载
 BoostrapClassLoader -> ExtensionClassLoader -> ApplicationClassLoader -> DIY
 https://blog.csdn.net/u014634338/article/details/81434327
+
+
+监视和管理控制台 jconsole 的使用
+https://blog.csdn.net/defonds/article/details/45064297?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-2.channel_param

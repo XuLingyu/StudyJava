@@ -30,7 +30,7 @@ public class RedisDistributedLock {
         this.key = key;
     }
 
-    // 不断尝试加锁
+    // 1秒内不断尝试加锁
     public String lock() {
         try {
             // 超过等待时间，加锁失败
@@ -58,7 +58,9 @@ public class RedisDistributedLock {
             return false;
         }
         // 判断key存在并且删除key必须是一个原子操作
-        // 且谁拥有锁，谁释放
+        // 且谁拥有锁，谁释放 lua脚本
+        // 加锁之后可以返回唯一id，标志此锁是该客户端锁拥有；
+        // 释放锁时要先判断拥有者是否是自己，然后删除，这个需要redis的lua脚本保证两个命令的原子性执行。
         String script = "if redis.call('get', KEYS[1]) == ARGV[1] then return redis.call('del', KEYS[1]) else return 0 end";
         Object result = new Object();
         try {
